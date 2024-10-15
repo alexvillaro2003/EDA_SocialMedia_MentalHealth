@@ -1,0 +1,1482 @@
+,Age,Gender,Profession,Platform,Time_Spent,Satisfaction_Level,DeviceType,OS,Addiction_Level,Social_Media_User,Relationship
+0,13,Male,Student,"Instagram, YouTube, Discord",Between 4 and 5 hours,4,,,2,Yes,Single
+1,13,Male,Student,"Twitter, Instagram, YouTube, Discord, Pinterest",More than 5 hours,6,,,6,Yes,Single
+2,14,Female,Student,"Twitter, Instagram, YouTube, Snapchat, Reddit, Pinterest, TikTok",More than 5 hours,2,,,4,Yes,Single
+3,14,Male,Student,"Instagram, Discord",Between 2 and 3 hours,6,,,4,Yes,Single
+4,14,Male,Student,"Instagram, YouTube, Discord",Between 4 and 5 hours,8,,,4,Yes,Single
+5,14,Male,Student,Reddit,Between 1 and 2 hours,2,,,4,Yes,Single
+6,15,Female,Student,"Instagram, YouTube, Discord, Pinterest",Between 3 and 4 hours,0,,,2,Yes,Single
+7,15,Male,Student,"Instagram, YouTube, Discord, Reddit",Between 4 and 5 hours,8,,,2,Yes,Single
+8,16,Male,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 4 and 5 hours,6,,,4,Yes,Single
+9,16,Male,Student,"Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,4,,,4,Yes,Single
+10,17,Female,Student,"Facebook, Instagram, YouTube, Pinterest",Between 2 and 3 hours,2,,,6,Yes,Single
+11,17,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,6,,,8,Yes,Single
+12,17,Female,Student,"Instagram, YouTube, Reddit, Pinterest",Between 3 and 4 hours,4,,,2,Yes,Single
+13,17,Male,Student,Discord,Between 2 and 3 hours,0,,,6,Yes,Single
+14,17,Male,Student,"Facebook, Discord",Between 4 and 5 hours,2,,,8,Yes,Single
+15,17,Male,Student,"Facebook, Instagram, YouTube",Less than an Hour,8,,,4,Yes,Single
+16,17,Male,Student,"Facebook, Instagram, YouTube, Discord",More than 5 hours,0,,,6,Yes,Single
+17,17,Male,Student,"Facebook, Twitter, Instagram, YouTube, Reddit",Between 2 and 3 hours,6,,,6,Yes,Single
+18,17,unsure ,Student,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",Between 4 and 5 hours,4,,,6,Yes,Single
+19,18,Female,Salaried Worker,Facebook,Between 2 and 3 hours,9,Tablet,Android,7,Yes,
+20,18,Female,Salaried Worker,Instagram,Between 1 and 2 hours,5,Computer,Windows,3,Yes,
+21,18,Female,Salaried Worker,Instagram,Between 2 and 3 hours,5,Smartphone,Windows,3,Yes,
+22,18,Female,Salaried Worker,TikTok,Less than an Hour,2,Smartphone,Android,0,Yes,
+23,18,Female,Salaried Worker,YouTube,Between 2 and 3 hours,4,Tablet,Android,2,Yes,
+24,18,Female,Salaried Worker,YouTube,Between 3 and 4 hours,4,Smartphone,Windows,2,Yes,
+25,18,Female,Student,"Facebook, Instagram, YouTube",Between 3 and 4 hours,2,,,4,Yes,Single
+26,18,Female,Student,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,6,,,2,Yes,Single
+27,18,Female,Student,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,4,,,6,Yes,Single
+28,18,Female,Student,"Facebook, Instagram, YouTube, Pinterest",More than 5 hours,0,,,6,Yes,Single
+29,18,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest",More than 5 hours,6,,,4,Yes,Single
+30,18,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Reddit, Pinterest, TikTok",Between 3 and 4 hours,4,,,8,Yes,In a relationship
+31,18,Female,Student,"Facebook, YouTube",More than 5 hours,0,,,6,Yes,Single
+32,18,Female,Student,"Facebook, YouTube, Reddit",Between 3 and 4 hours,0,,,6,Yes,Single
+33,18,Female,Student,TikTok,Between 3 and 4 hours,4,Tablet,Android,2,Yes,
+34,18,Female,Student,TikTok,Between 3 and 4 hours,4,Computer,MacOS,2,Yes,
+35,18,Female,Student,TikTok,Between 4 and 5 hours,4,Smartphone,Android,2,Yes,
+36,18,Male,Salaried Worker,Facebook,Between 1 and 2 hours,7,Smartphone,Android,5,Yes,
+37,18,Male,Salaried Worker,Facebook,Between 2 and 3 hours,5,Tablet,Android,3,Yes,
+38,18,Male,Salaried Worker,Facebook,Less than an Hour,4,Computer,iOS,2,Yes,
+39,18,Male,Salaried Worker,Instagram,Between 4 and 5 hours,8,Smartphone,Android,6,Yes,
+40,18,Male,Salaried Worker,Instagram,Less than an Hour,3,Smartphone,iOS,1,Yes,
+41,18,Male,Salaried Worker,TikTok,Between 3 and 4 hours,3,Smartphone,MacOS,1,Yes,
+42,18,Male,Salaried Worker,TikTok,Less than an Hour,7,Tablet,iOS,5,Yes,
+43,18,Male,Student,"Discord, Reddit",Between 1 and 2 hours,8,,,2,Yes,Single
+44,18,Male,Student,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, Pinterest",More than 5 hours,4,,,2,Yes,Single
+45,18,Male,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,0,,,8,Yes,Single
+46,18,Male,Student,Instagram,Less than an Hour,6,Smartphone,Android,4,Yes,
+47,18,Male,Student,Pinterest,More than 5 hours,0,,,2,Yes,Single
+48,18,Male,Student,TikTok,Between 3 and 4 hours,7,Smartphone,Android,5,Yes,
+49,18,Male,Student,YouTube,Between 1 and 2 hours,7,Computer,Android,5,Yes,
+50,18,Male,Student,YouTube,Between 2 and 3 hours,3,Smartphone,Windows,1,Yes,
+51,18,Non-binary,Student,"Twitter, Instagram, YouTube, Reddit, TikTok",Between 2 and 3 hours,2,,,4,Yes,Single
+52,18,Other,Salaried Worker,Facebook,Between 2 and 3 hours,5,Smartphone,Android,3,Yes,
+53,18,Other,Salaried Worker,YouTube,Between 2 and 3 hours,2,Smartphone,Android,0,Yes,
+54,18,Other,Salaried Worker,YouTube,Between 2 and 3 hours,5,Tablet,Windows,3,Yes,
+55,18,Other,Salaried Worker,YouTube,Between 3 and 4 hours,4,Smartphone,Android,2,Yes,
+56,18,Other,Salaried Worker,YouTube,Between 4 and 5 hours,5,Smartphone,iOS,3,Yes,
+57,19,Female,Salaried Worker,Facebook,Between 2 and 3 hours,2,Computer,MacOS,0,Yes,
+58,19,Female,Salaried Worker,TikTok,Between 3 and 4 hours,5,Smartphone,Android,3,Yes,
+59,19,Female,Student,"Discord, Reddit",Between 2 and 3 hours,8,,,2,Yes,Single
+60,19,Female,Student,Facebook,Between 4 and 5 hours,2,,,8,Yes,In a relationship
+61,19,Female,Student,Facebook,Less than an Hour,4,Smartphone,Windows,2,Yes,
+62,19,Female,Student,Facebook,Less than an Hour,4,Tablet,Android,2,Yes,
+63,19,Female,Student,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,0,,,10,Yes,Single
+64,19,Female,Student,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,4,,,4,Yes,Single
+65,19,Female,Student,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,2,,,4,Yes,Single
+66,19,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 3 and 4 hours,2,,,2,Yes,Single
+67,19,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest",Between 3 and 4 hours,2,,,10,Yes,Single
+68,19,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 2 and 3 hours,2,,,6,Yes,Single
+69,19,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",More than 5 hours,0,,,8,Yes,Single
+70,19,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest",More than 5 hours,0,,,8,Yes,Single
+71,19,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",More than 5 hours,6,,,2,Yes,Single
+72,19,Female,Student,"Facebook, YouTube, Discord, Pinterest",Between 3 and 4 hours,0,,,4,Yes,Single
+73,19,Female,Student,Instagram,Between 4 and 5 hours,7,Smartphone,Android,5,Yes,
+74,19,Female,Student,TikTok,Between 2 and 3 hours,7,Smartphone,iOS,5,Yes,
+75,19,Male,Salaried Worker,Facebook,Between 2 and 3 hours,5,Tablet,Windows,3,Yes,
+76,19,Male,Salaried Worker,Facebook,Less than an Hour,4,Computer,Android,2,Yes,
+77,19,Male,Salaried Worker,Instagram,Between 3 and 4 hours,2,Smartphone,Windows,0,Yes,
+78,19,Male,Salaried Worker,TikTok,Between 3 and 4 hours,2,Tablet,Android,0,Yes,
+79,19,Male,Salaried Worker,TikTok,Between 4 and 5 hours,5,Smartphone,Android,3,Yes,
+80,19,Male,Salaried Worker,TikTok,Less than an Hour,4,Smartphone,Android,2,Yes,
+81,19,Male,Salaried Worker,YouTube,Between 2 and 3 hours,4,Smartphone,Android,2,Yes,
+82,19,Male,Salaried Worker,YouTube,Between 3 and 4 hours,4,Smartphone,MacOS,2,Yes,
+83,19,Male,Salaried Worker,YouTube,Between 3 and 4 hours,4,Computer,Android,2,Yes,
+84,19,Male,Salaried Worker,YouTube,Between 4 and 5 hours,4,Computer,Android,2,Yes,
+85,19,Male,Salaried Worker,YouTube,Less than an Hour,7,Smartphone,Windows,5,Yes,
+86,19,Male,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 1 and 2 hours,8,,,2,Yes,In a relationship
+87,19,Male,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 4 and 5 hours,6,,,4,Yes,Single
+88,19,Male,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",Between 4 and 5 hours,6,,,4,Yes,Single
+89,19,Male,Student,"Facebook, Instagram, YouTube, TikTok",Between 4 and 5 hours,4,,,8,Yes,Single
+90,19,Male,Student,"Facebook, Twitter, Instagram, YouTube",Between 3 and 4 hours,2,,,6,Yes,Single
+91,19,Male,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord",Less than an Hour,6,,,2,Yes,Single
+92,19,Male,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,8,,,4,Yes,Single
+93,19,Male,Student,TikTok,Between 1 and 2 hours,3,Smartphone,iOS,1,Yes,
+94,19,Male,Student,YouTube,Between 2 and 3 hours,4,Smartphone,iOS,2,Yes,
+95,19,Male,Student,YouTube,Between 4 and 5 hours,7,Computer,MacOS,5,Yes,
+96,19,Male,Student,YouTube,Less than an Hour,7,Smartphone,iOS,5,Yes,
+97,19,Other,Salaried Worker,Facebook,Between 2 and 3 hours,7,Tablet,Android,5,Yes,
+98,19,Other,Salaried Worker,TikTok,Between 4 and 5 hours,7,Smartphone,iOS,5,Yes,
+99,19,Other,Salaried Worker,TikTok,Less than an Hour,3,Smartphone,Android,1,Yes,
+100,20,Female,Salaried Worker,Facebook,Between 1 and 2 hours,4,Smartphone,iOS,2,Yes,
+101,20,Female,Salaried Worker,Facebook,Between 4 and 5 hours,9,Smartphone,iOS,7,Yes,
+102,20,Female,Salaried Worker,TikTok,Between 1 and 2 hours,7,Smartphone,Android,5,Yes,
+103,20,Female,Salaried Worker,YouTube,Between 1 and 2 hours,4,Smartphone,Windows,2,Yes,
+104,20,Female,Salaried Worker,YouTube,Between 4 and 5 hours,4,Tablet,MacOS,2,Yes,
+105,20,Female,Student,"Facebook, Instagram",Between 2 and 3 hours,4,,,10,Yes,Single
+106,20,Female,Student,"Facebook, Instagram, TikTok",Between 4 and 5 hours,2,,,10,Yes,Single
+107,20,Female,Student,"Facebook, Instagram, YouTube",Between 3 and 4 hours,2,,,2,Yes,Single
+108,20,Female,Student,"Facebook, Instagram, YouTube",Less than an Hour,8,,,2,Yes,Single
+109,20,Female,Student,"Facebook, Instagram, YouTube",More than 5 hours,2,,,4,Yes,Single
+110,20,Female,Student,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,4,,,6,Yes,Single
+111,20,Female,Student,"Facebook, Instagram, YouTube, Discord",Between 4 and 5 hours,4,,,6,Yes,Single
+112,20,Female,Student,"Facebook, Instagram, YouTube, Discord",More than 5 hours,0,,,6,Yes,Single
+113,20,Female,Student,"Facebook, Instagram, YouTube, Snapchat",Between 2 and 3 hours,6,,,2,Yes,Single
+114,20,Female,Student,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,0,,,8,Yes,In a relationship
+115,20,Female,Student,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,2,,,6,Yes,Single
+116,20,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",More than 5 hours,0,,,10,Yes,Single
+117,20,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,2,,,10,Yes,Single
+118,20,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,0,,,8,Yes,In a relationship
+119,20,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,4,,,6,Yes,Single
+120,20,Female,Student,"Facebook, Instagram, YouTube, Snapchat, TikTok",Between 2 and 3 hours,0,,,8,Yes,In a relationship
+121,20,Female,Student,"Facebook, Instagram, YouTube, TikTok",Between 3 and 4 hours,4,,,2,Yes,Single
+122,20,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat",More than 5 hours,2,,,8,Yes,Single
+123,20,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",More than 5 hours,2,,,6,Yes,In a relationship
+124,20,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",More than 5 hours,6,,,4,Yes,In a relationship
+125,20,Female,Student,"Facebook, YouTube",Between 3 and 4 hours,4,,,8,Yes,Single
+126,20,Female,Student,"Facebook, YouTube",Between 3 and 4 hours,8,,,4,Yes,In a relationship
+127,20,Female,Student,"Facebook, YouTube, Snapchat, Pinterest",Between 4 and 5 hours,0,,,10,Yes,Single
+128,20,Female,Student,Instagram,Between 2 and 3 hours,7,Smartphone,MacOS,5,Yes,
+129,20,Female,Student,Instagram,More than 5 hours,2,,,2,Yes,In a relationship
+130,20,Female,Student,"Instagram, Reddit",Between 1 and 2 hours,8,,,2,Yes,Married
+131,20,Female,Student,"Instagram, YouTube, Pinterest",Between 4 and 5 hours,2,,,10,Yes,In a relationship
+132,20,Female,Student,"Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 1 and 2 hours,0,,,2,Yes,Single
+133,20,Female,Student,"Twitter, Instagram, YouTube",Between 3 and 4 hours,6,,,4,Yes,Single
+134,20,Female,Student,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,2,,,2,Yes,Single
+135,20,Female,Student,YouTube,Between 1 and 2 hours,4,Smartphone,MacOS,2,Yes,
+136,20,Female,Student,YouTube,Between 1 and 2 hours,4,Smartphone,Android,2,Yes,
+137,20,Male,Salaried Worker,Facebook,Between 3 and 4 hours,4,Computer,iOS,2,Yes,
+138,20,Male,Salaried Worker,"Facebook, Twitter, Instagram, Snapchat, Reddit",Between 1 and 2 hours,0,,,4,Yes,Single
+139,20,Male,Salaried Worker,TikTok,Between 2 and 3 hours,7,Tablet,Android,5,Yes,
+140,20,Male,Salaried Worker,TikTok,Between 3 and 4 hours,3,Smartphone,Windows,1,Yes,
+141,20,Male,Salaried Worker,TikTok,Between 4 and 5 hours,2,Smartphone,Android,0,Yes,
+142,20,Male,Salaried Worker,YouTube,Between 4 and 5 hours,2,Computer,iOS,0,Yes,
+143,20,Male,Student,"Facebook, Instagram, YouTube",Between 1 and 2 hours,0,,,4,Yes,Single
+144,20,Male,Student,"Facebook, Instagram, YouTube",Between 4 and 5 hours,2,,,6,Yes,Single
+145,20,Male,Student,"Facebook, Instagram, YouTube",Between 4 and 5 hours,4,,,4,Yes,Single
+146,20,Male,Student,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,2,,,6,Yes,Single
+147,20,Male,Student,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 1 and 2 hours,4,,,6,Yes,Single
+148,20,Male,Student,"Facebook, Instagram, YouTube, Snapchat, Discord",More than 5 hours,0,,,10,Yes,Divorced
+149,20,Male,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,2,,,8,Yes,Single
+150,20,Male,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Less than an Hour,6,,,2,Yes,Single
+151,20,Male,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",More than 5 hours,0,,,6,Yes,Single
+152,20,Male,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",More than 5 hours,2,,,6,Yes,In a relationship
+153,20,Male,Student,Instagram,Between 1 and 2 hours,5,Smartphone,Android,3,Yes,
+154,20,Male,Student,Instagram,Between 1 and 2 hours,5,Smartphone,Android,3,Yes,
+155,20,Male,Student,Instagram,Between 2 and 3 hours,9,Tablet,MacOS,7,Yes,
+156,20,Male,Student,"Instagram, Discord, Reddit, Pinterest, TikTok",Between 2 and 3 hours,6,,,6,Yes,Single
+157,20,Male,Student,"Instagram, YouTube, Discord, Reddit, Pinterest",Between 3 and 4 hours,0,,,4,Yes,Single
+158,20,Male,Student,"Reddit, Pinterest",Less than an Hour,8,,,2,No,Single
+159,20,Male,Student,TikTok,Less than an Hour,2,Smartphone,Android,0,Yes,
+160,20,Male,Student,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",More than 5 hours,4,,,10,Yes,Single
+161,20,Male,Student,"YouTube, Reddit",More than 5 hours,2,,,2,Yes,Single
+162,20,Other,Salaried Worker,Facebook,Between 1 and 2 hours,2,Computer,MacOS,0,Yes,
+163,20,Other,Salaried Worker,Instagram,Between 3 and 4 hours,2,Smartphone,iOS,0,Yes,
+164,20,Other,Salaried Worker,Instagram,Between 4 and 5 hours,5,Tablet,Android,3,Yes,
+165,20,Other,Salaried Worker,TikTok,Between 2 and 3 hours,4,Tablet,Android,2,Yes,
+166,20,Other,Salaried Worker,TikTok,Less than an Hour,7,Smartphone,Android,5,Yes,
+167,20,Other,Salaried Worker,YouTube,Between 1 and 2 hours,2,Smartphone,MacOS,0,Yes,
+168,20,Other,Salaried Worker,YouTube,Between 4 and 5 hours,4,Tablet,Android,2,Yes,
+169,21,Female,Salaried Worker,Facebook,Between 3 and 4 hours,2,Smartphone,Android,0,Yes,
+170,21,Female,Salaried Worker,Instagram,Between 2 and 3 hours,8,Smartphone,MacOS,6,Yes,
+171,21,Female,Salaried Worker,Instagram,Between 4 and 5 hours,7,Tablet,Windows,5,Yes,
+172,21,Female,Salaried Worker,TikTok,Between 2 and 3 hours,5,Smartphone,iOS,3,Yes,
+173,21,Female,Salaried Worker,TikTok,Between 4 and 5 hours,2,Tablet,Android,0,Yes,
+174,21,Female,Salaried Worker,YouTube,Between 1 and 2 hours,7,Smartphone,Android,5,Yes,
+175,21,Female,Salaried Worker,YouTube,Between 3 and 4 hours,7,Tablet,Windows,5,Yes,
+176,21,Female,Student,Facebook,More than 5 hours,0,,,6,Yes,Single
+177,21,Female,Student,"Facebook, Instagram",More than 5 hours,2,,,2,Yes,Single
+178,21,Female,Student,"Facebook, Instagram, Discord",Between 2 and 3 hours,4,,,8,Yes,In a relationship
+179,21,Female,Student,"Facebook, Instagram, Discord",Between 3 and 4 hours,6,,,2,Yes,Single
+180,21,Female,Student,"Facebook, Instagram, Snapchat",More than 5 hours,2,,,4,Yes,In a relationship
+181,21,Female,Student,"Facebook, Instagram, Snapchat, Pinterest, TikTok",Between 2 and 3 hours,2,,,2,Yes,Single
+182,21,Female,Student,"Facebook, Instagram, YouTube",Between 2 and 3 hours,2,,,8,Yes,Single
+183,21,Female,Student,"Facebook, Instagram, YouTube",Between 4 and 5 hours,0,,,10,Yes,In a relationship
+184,21,Female,Student,"Facebook, Instagram, YouTube",More than 5 hours,0,,,6,Yes,In a relationship
+185,21,Female,Student,"Facebook, Instagram, YouTube",More than 5 hours,0,,,6,Yes,In a relationship
+186,21,Female,Student,"Facebook, Instagram, YouTube, Pinterest",Between 2 and 3 hours,2,,,10,Yes,In a relationship
+187,21,Female,Student,"Facebook, Instagram, YouTube, Pinterest",Between 3 and 4 hours,2,,,2,Yes,Single
+188,21,Female,Student,"Facebook, Instagram, YouTube, Pinterest",Between 3 and 4 hours,4,,,2,Yes,In a relationship
+189,21,Female,Student,"Facebook, Instagram, YouTube, Pinterest",Between 4 and 5 hours,2,,,10,Yes,In a relationship
+190,21,Female,Student,"Facebook, Instagram, YouTube, Reddit, Pinterest",Between 3 and 4 hours,4,,,6,Yes,Single
+191,21,Female,Student,"Facebook, Instagram, YouTube, Snapchat",Between 1 and 2 hours,2,,,4,Yes,Married
+192,21,Female,Student,"Facebook, Instagram, YouTube, Snapchat",Between 1 and 2 hours,4,,,2,Yes,Single
+193,21,Female,Student,"Facebook, Instagram, YouTube, Snapchat",Between 1 and 2 hours,4,,,8,Yes,Single
+194,21,Female,Student,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,0,,,6,Yes,In a relationship
+195,21,Female,Student,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,2,,,4,Yes,Single
+196,21,Female,Student,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,6,,,2,Yes,In a relationship
+197,21,Female,Student,"Facebook, Instagram, YouTube, Snapchat",Between 4 and 5 hours,2,,,4,Yes,In a relationship
+198,21,Female,Student,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,0,,,8,Yes,In a relationship
+199,21,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 2 and 3 hours,0,,,6,Yes,In a relationship
+200,21,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 3 and 4 hours,0,,,10,Yes,Single
+201,21,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 4 and 5 hours,0,,,8,Yes,Single
+202,21,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest",More than 5 hours,2,,,4,Yes,Single
+203,21,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 3 and 4 hours,0,,,4,Yes,In a relationship
+204,21,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit",Between 1 and 2 hours,4,,,4,Yes,Single
+205,21,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,4,,,4,Yes,Single
+206,21,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,2,,,6,Yes,Single
+207,21,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 2 and 3 hours,0,,,4,Yes,In a relationship
+208,21,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,0,,,8,Yes,Single
+209,21,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 4 and 5 hours,8,,,8,Yes,Single
+210,21,Female,Student,"Facebook, Instagram, YouTube, Snapchat, TikTok",Between 3 and 4 hours,0,,,4,Yes,Married
+211,21,Female,Student,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit",More than 5 hours,0,,,4,Yes,Single
+212,21,Female,Student,"Facebook, Twitter, Instagram, YouTube, Pinterest",More than 5 hours,2,,,6,Yes,Single
+213,21,Female,Student,"Facebook, Twitter, Instagram, YouTube, Reddit, Pinterest",Between 3 and 4 hours,4,,,4,Yes,Single
+214,21,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat",More than 5 hours,4,,,8,Yes,In a relationship
+215,21,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord",Between 1 and 2 hours,6,,,4,Yes,Single
+216,21,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,0,,,8,Yes,Single
+217,21,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,2,,,8,Yes,Single
+218,21,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,8,,,8,Yes,Single
+219,21,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 4 and 5 hours,2,,,6,Yes,In a relationship
+220,21,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 4 and 5 hours,4,,,8,Yes,Single
+221,21,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Reddit, Pinterest",Between 3 and 4 hours,4,,,4,Yes,Single
+222,21,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, TikTok",More than 5 hours,0,,,10,Yes,Single
+223,21,Female,Student,"Facebook, Twitter, YouTube, Discord, Pinterest",More than 5 hours,4,,,2,Yes,In a relationship
+224,21,Female,Student,"Facebook, YouTube",Between 1 and 2 hours,4,,,2,Yes,Single
+225,21,Female,Student,"Facebook, YouTube, Discord",Between 4 and 5 hours,6,,,6,Yes,Single
+226,21,Female,Student,"Facebook, YouTube, Discord, Pinterest",Between 3 and 4 hours,8,,,2,Yes,Single
+227,21,Female,Student,Instagram,Between 2 and 3 hours,6,,,10,Yes,In a relationship
+228,21,Female,Student,"Twitter, Instagram, YouTube, TikTok",Between 2 and 3 hours,2,,,6,Yes,Single
+229,21,Female,Student,YouTube,Between 3 and 4 hours,8,,,8,Yes,In a relationship
+230,21,Female,Student,YouTube,Between 4 and 5 hours,2,Tablet,iOS,0,Yes,
+231,21,Male,Salaried Worker,Instagram,Between 1 and 2 hours,4,Smartphone,iOS,2,Yes,
+232,21,Male,Salaried Worker,TikTok,Between 1 and 2 hours,2,Tablet,Windows,0,Yes,
+233,21,Male,Salaried Worker,YouTube,Between 1 and 2 hours,2,Smartphone,iOS,0,Yes,
+234,21,Male,Salaried Worker,YouTube,Between 3 and 4 hours,2,Smartphone,Android,0,Yes,
+235,21,Male,Salaried Worker,YouTube,Between 3 and 4 hours,5,Tablet,MacOS,3,Yes,
+236,21,Male,Student,"Facebook, Instagram",Between 1 and 2 hours,0,,,2,Yes,Single
+237,21,Male,Student,"Facebook, Instagram",Between 3 and 4 hours,4,,,8,Yes,Single
+238,21,Male,Student,"Facebook, Instagram, Reddit, TikTok",Between 3 and 4 hours,2,,,10,Yes,In a relationship
+239,21,Male,Student,"Facebook, Instagram, YouTube",Between 4 and 5 hours,4,,,6,Yes,Single
+240,21,Male,Student,"Facebook, Instagram, YouTube",More than 5 hours,2,,,6,Yes,In a relationship
+241,21,Male,Student,"Facebook, Instagram, YouTube",More than 5 hours,6,,,4,Yes,Single
+242,21,Male,Student,"Facebook, Instagram, YouTube, Discord, Reddit, Pinterest",Between 3 and 4 hours,2,,,4,Yes,Single
+243,21,Male,Student,"Facebook, Instagram, YouTube, Discord, Reddit, TikTok",Between 3 and 4 hours,4,,,6,Yes,In a relationship
+244,21,Male,Student,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 3 and 4 hours,2,,,8,Yes,Single
+245,21,Male,Student,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 4 and 5 hours,6,,,4,Yes,In a relationship
+246,21,Male,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",More than 5 hours,0,,,4,Yes,Single
+247,21,Male,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",More than 5 hours,8,,,4,Yes,Single
+248,21,Male,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 1 and 2 hours,6,,,6,Yes,Single
+249,21,Male,Student,"Facebook, Twitter, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,2,,,4,Yes,Single
+250,21,Male,Student,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit",Between 2 and 3 hours,0,,,4,Yes,In a relationship
+251,21,Male,Student,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit",Between 2 and 3 hours,4,,,8,Yes,Single
+252,21,Male,Student,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 2 and 3 hours,6,,,4,Yes,Single
+253,21,Male,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord",Less than an Hour,6,,,4,Yes,In a relationship
+254,21,Male,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Between 4 and 5 hours,0,,,4,Yes,Single
+255,21,Male,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,0,,,4,Yes,Single
+256,21,Male,Student,"Facebook, YouTube, Discord",Between 3 and 4 hours,6,,,2,Yes,In a relationship
+257,21,Male,Student,"Facebook, YouTube, Discord",Less than an Hour,2,,,2,Yes,Single
+258,21,Male,Student,Instagram,Between 1 and 2 hours,7,Smartphone,Android,5,Yes,
+259,21,Male,Student,"Instagram, YouTube, Snapchat, Discord, Reddit",Between 2 and 3 hours,2,,,6,Yes,Single
+260,21,Male,Student,"Instagram, YouTube, Snapchat, Discord, Reddit",More than 5 hours,2,,,6,Yes,Single
+261,21,Male,Student,YouTube,Between 2 and 3 hours,2,,,4,Yes,Single
+262,21,Male,Student,"YouTube, Discord, Reddit",More than 5 hours,8,,,2,Yes,Single
+263,21,Non binary ,Student,"Facebook, Instagram, YouTube, Snapchat, Reddit, Pinterest, TikTok",More than 5 hours,0,,,6,Yes,Single
+264,21,Nonbinary ,Student,"Facebook, Twitter, Instagram, YouTube, Discord",More than 5 hours,2,,,10,Yes,Single
+265,21,Other,Salaried Worker,Facebook,Between 2 and 3 hours,5,Smartphone,Android,3,Yes,
+266,21,Other,Salaried Worker,TikTok,Between 3 and 4 hours,5,Smartphone,MacOS,3,Yes,
+267,21,Other,Salaried Worker,TikTok,Between 4 and 5 hours,5,Smartphone,iOS,3,Yes,
+268,21,Other,Salaried Worker,YouTube,Between 4 and 5 hours,2,Smartphone,Android,0,Yes,
+269,21,Other,Salaried Worker,YouTube,Less than an Hour,4,Smartphone,iOS,2,Yes,
+270,22,Female,Salaried Worker,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,4,,,2,Yes,Single
+271,22,Female,Salaried Worker,Instagram,Between 1 and 2 hours,3,Tablet,iOS,1,Yes,
+272,22,Female,Salaried Worker,Instagram,Between 4 and 5 hours,7,Computer,Android,5,Yes,
+273,22,Female,Salaried Worker,Instagram,Less than an Hour,4,Tablet,iOS,2,Yes,
+274,22,Female,Salaried Worker,"Instagram, YouTube, Discord, Reddit, TikTok",More than 5 hours,2,,,8,Yes,In a relationship
+275,22,Female,Salaried Worker,TikTok,Between 3 and 4 hours,2,Smartphone,iOS,0,Yes,
+276,22,Female,Salaried Worker,YouTube,Less than an Hour,4,Computer,iOS,2,Yes,
+277,22,Female,Student,Facebook,Between 2 and 3 hours,0,,,4,Yes,Single
+278,22,Female,Student,Facebook,More than 5 hours,2,,,8,Yes,In a relationship
+279,22,Female,Student,Facebook,More than 5 hours,4,,,10,Yes,Single
+280,22,Female,Student,"Facebook, Instagram",Between 2 and 3 hours,4,,,4,Yes,Single
+281,22,Female,Student,"Facebook, Instagram, Snapchat",More than 5 hours,4,,,4,Yes,In a relationship
+282,22,Female,Student,"Facebook, Instagram, YouTube",Between 1 and 2 hours,4,,,4,Yes,Single
+283,22,Female,Student,"Facebook, Instagram, YouTube",Between 1 and 2 hours,8,,,2,Yes,Single
+284,22,Female,Student,"Facebook, Instagram, YouTube",Between 2 and 3 hours,2,,,8,Yes,In a relationship
+285,22,Female,Student,"Facebook, Instagram, YouTube",More than 5 hours,4,,,8,Yes,In a relationship
+286,22,Female,Student,"Facebook, Instagram, YouTube, Discord",Between 2 and 3 hours,0,,,4,Yes,In a relationship
+287,22,Female,Student,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,0,,,6,Yes,In a relationship
+288,22,Female,Student,"Facebook, Instagram, YouTube, Pinterest",Between 2 and 3 hours,6,,,4,Yes,Married
+289,22,Female,Student,"Facebook, Instagram, YouTube, Pinterest",More than 5 hours,0,,,8,Yes,Single
+290,22,Female,Student,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,4,,,4,Yes,Single
+291,22,Female,Student,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,0,,,6,Yes,In a relationship
+292,22,Female,Student,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,0,,,8,Yes,Single
+293,22,Female,Student,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,2,,,8,Yes,Single
+294,22,Female,Student,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,6,,,2,Yes,Single
+295,22,Female,Student,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,6,,,10,Yes,Single
+296,22,Female,Student,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,8,,,6,Yes,Single
+297,22,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 2 and 3 hours,8,,,2,Yes,Married
+298,22,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 4 and 5 hours,8,,,4,Yes,Single
+299,22,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Discord",More than 5 hours,0,,,10,Yes,Single
+300,22,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 4 and 5 hours,2,,,6,Yes,In a relationship
+301,22,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 3 and 4 hours,6,,,10,Yes,Single
+302,22,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest",More than 5 hours,0,,,8,Yes,Single
+303,22,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",Between 2 and 3 hours,0,,,6,Yes,Single
+304,22,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",Between 3 and 4 hours,0,,,6,Yes,In a relationship
+305,22,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,0,,,10,Yes,Single
+306,22,Female,Student,"Facebook, Instagram, YouTube, Snapchat, TikTok",More than 5 hours,6,,,6,Yes,In a relationship
+307,22,Female,Student,"Facebook, Twitter, Instagram, YouTube",Between 2 and 3 hours,2,,,6,Yes,Single
+308,22,Female,Student,"Facebook, Twitter, Instagram, YouTube",Between 2 and 3 hours,4,,,6,Yes,In a relationship
+309,22,Female,Student,"Facebook, Twitter, Instagram, YouTube, Discord, Pinterest, TikTok",Between 2 and 3 hours,4,,,4,Yes,Single
+310,22,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat",More than 5 hours,2,,,6,Yes,Single
+311,22,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",Between 3 and 4 hours,4,,,6,Yes,Single
+312,22,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",More than 5 hours,4,,,8,Yes,In a relationship
+313,22,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 3 and 4 hours,4,,,4,Yes,Single
+314,22,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 2 and 3 hours,0,,,4,Yes,Married
+315,22,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,4,,,6,Yes,Single
+316,22,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,4,,,6,Yes,Single
+317,22,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,2,,,6,Yes,Married
+318,22,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, TikTok",Between 4 and 5 hours,2,,,2,Yes,Single
+319,22,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, TikTok",More than 5 hours,2,,,8,Yes,Single
+320,22,Female,Student,"Facebook, YouTube",Between 1 and 2 hours,6,,,6,Yes,In a relationship
+321,22,Female,Student,"Facebook, YouTube",Between 2 and 3 hours,4,,,2,Yes,Single
+322,22,Female,Student,"Facebook, YouTube, Discord, Reddit, Pinterest",Between 2 and 3 hours,2,,,4,Yes,Single
+323,22,Female,Student,"Facebook, YouTube, Snapchat, Discord",More than 5 hours,0,,,10,Yes,Single
+324,22,Female,Student,Instagram,Less than an Hour,2,Smartphone,iOS,0,Yes,
+325,22,Female,Student,Instagram,More than 5 hours,8,,,6,Yes,Single
+326,22,Female,Student,"Twitter, Discord, Reddit",Between 2 and 3 hours,2,,,8,Yes,Single
+327,22,Female,Student,"Twitter, Instagram, TikTok",More than 5 hours,4,,,10,Yes,Single
+328,22,Female,Student,"Twitter, Instagram, YouTube",Between 3 and 4 hours,4,,,2,Yes,Single
+329,22,Female,Student,YouTube,Between 1 and 2 hours,4,Smartphone,Windows,2,Yes,
+330,22,Female,Student,YouTube,Between 4 and 5 hours,2,,,4,Yes,Single
+331,22,Female,Student,YouTube,Less than an Hour,4,Smartphone,Android,2,Yes,
+332,22,Male,Salaried Worker,Facebook,Between 1 and 2 hours,5,Smartphone,Android,3,Yes,
+333,22,Male,Salaried Worker,Facebook,Between 2 and 3 hours,4,Computer,MacOS,2,Yes,
+334,22,Male,Salaried Worker,Facebook,Between 3 and 4 hours,7,Tablet,iOS,5,Yes,
+335,22,Male,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",Between 4 and 5 hours,4,,,8,Yes,In a relationship
+336,22,Male,Salaried Worker,Instagram,Less than an Hour,4,Smartphone,Android,2,Yes,
+337,22,Male,Salaried Worker,TikTok,Between 2 and 3 hours,8,Tablet,iOS,6,Yes,
+338,22,Male,Salaried Worker,TikTok,Between 3 and 4 hours,7,Tablet,iOS,5,Yes,
+339,22,Male,Salaried Worker,TikTok,Less than an Hour,8,Tablet,MacOS,6,Yes,
+340,22,Male,Salaried Worker,YouTube,Between 1 and 2 hours,2,Smartphone,MacOS,0,Yes,
+341,22,Male,Salaried Worker,YouTube,Between 2 and 3 hours,5,Smartphone,Android,3,Yes,
+342,22,Male,Salaried Worker,YouTube,Between 3 and 4 hours,4,Computer,Android,2,Yes,
+343,22,Male,Salaried Worker,YouTube,Between 4 and 5 hours,5,Smartphone,Android,3,Yes,
+344,22,Male,Salaried Worker,YouTube,Between 4 and 5 hours,6,Smartphone,iOS,4,Yes,
+345,22,Male,Student,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,6,,,10,Yes,In a relationship
+346,22,Male,Student,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,0,,,8,Yes,Single
+347,22,Male,Student,"Facebook, Instagram, YouTube, Discord, Reddit",Between 2 and 3 hours,6,,,4,Yes,In a relationship
+348,22,Male,Student,"Facebook, Instagram, YouTube, Snapchat",Between 1 and 2 hours,0,,,4,Yes,Single
+349,22,Male,Student,"Facebook, Instagram, YouTube, Snapchat",Between 2 and 3 hours,2,,,4,Yes,In a relationship
+350,22,Male,Student,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 4 and 5 hours,0,,,6,Yes,In a relationship
+351,22,Male,Student,"Facebook, Instagram, YouTube, Snapchat, Discord",More than 5 hours,4,,,2,Yes,Single
+352,22,Male,Student,"Facebook, Instagram, YouTube, Snapchat, Discord",More than 5 hours,4,,,8,Yes,Single
+353,22,Male,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit",Between 2 and 3 hours,4,,,4,Yes,In a relationship
+354,22,Male,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit",Between 3 and 4 hours,4,,,4,Yes,In a relationship
+355,22,Male,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit",More than 5 hours,4,,,2,Yes,Married
+356,22,Male,Student,"Facebook, Twitter, Instagram, YouTube, Discord, Pinterest",More than 5 hours,0,,,6,Yes,Single
+357,22,Male,Student,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, Pinterest, TikTok",More than 5 hours,4,,,6,Yes,Single
+358,22,Male,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",More than 5 hours,0,,,4,Yes,Single
+359,22,Male,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 1 and 2 hours,0,,,6,Yes,In a relationship
+360,22,Male,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 3 and 4 hours,8,,,2,Yes,Single
+361,22,Male,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",More than 5 hours,4,,,4,Yes,Single
+362,22,Male,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 1 and 2 hours,4,,,8,Yes,Single
+363,22,Male,Student,"Facebook, YouTube",Between 2 and 3 hours,4,,,4,Yes,Single
+364,22,Male,Student,"Facebook, YouTube, Discord",Between 2 and 3 hours,6,,,4,Yes,Single
+365,22,Male,Student,"Facebook, YouTube, Discord",Between 2 and 3 hours,8,,,4,Yes,Single
+366,22,Male,Student,"Facebook, YouTube, Pinterest",More than 5 hours,0,,,10,Yes,Single
+367,22,Male,Student,"Facebook, YouTube, Snapchat",Less than an Hour,8,,,2,Yes,Single
+368,22,Male,Student,Instagram,Between 3 and 4 hours,2,,,6,Yes,Single
+369,22,Male,Student,TikTok,Between 2 and 3 hours,1,Smartphone,iOS,0,Yes,
+370,22,Male,Student,TikTok,Between 3 and 4 hours,7,Smartphone,Windows,5,Yes,
+371,22,Male,Student,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Between 2 and 3 hours,2,,,8,Yes,Single
+372,22,Other,Salaried Worker,TikTok,Between 3 and 4 hours,7,Tablet,MacOS,5,Yes,
+373,22,Other,Salaried Worker,YouTube,Between 2 and 3 hours,7,Computer,Android,5,Yes,
+374,22,Other,Student,YouTube,Between 1 and 2 hours,6,Smartphone,Windows,4,Yes,
+375,22,There are others???,Salaried Worker,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,8,,,10,Yes,In a relationship
+376,23,Female,Retired,"Facebook, YouTube, Discord, Reddit",Between 4 and 5 hours,0,,,6,Yes,Single
+377,23,Female,Salaried Worker,Facebook,Between 2 and 3 hours,4,Smartphone,Android,2,Yes,
+378,23,Female,Salaried Worker,Facebook,Between 3 and 4 hours,4,Smartphone,iOS,2,Yes,
+379,23,Female,Salaried Worker,Facebook,Between 4 and 5 hours,2,Smartphone,Android,0,Yes,
+380,23,Female,Student,Facebook,Between 2 and 3 hours,2,,,6,Yes,Single
+381,23,Female,Student,Facebook,More than 5 hours,4,,,6,Yes,Married
+382,23,Female,Student,"Facebook, Instagram, TikTok",Between 2 and 3 hours,4,,,4,Yes,Single
+383,23,Female,Student,"Facebook, Instagram, YouTube",Between 2 and 3 hours,6,,,6,Yes,Single
+384,23,Female,Student,"Facebook, Instagram, YouTube",Between 3 and 4 hours,4,,,2,Yes,Single
+385,23,Female,Student,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,4,,,6,Yes,Single
+386,23,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest",More than 5 hours,2,,,6,Yes,Single
+387,23,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",More than 5 hours,0,,,10,Yes,In a relationship
+388,23,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 1 and 2 hours,2,,,4,Yes,Married
+389,23,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,2,,,8,Yes,Single
+390,23,Female,Student,"Facebook, Instagram, YouTube, TikTok",More than 5 hours,2,,,4,Yes,Single
+391,23,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat",Between 2 and 3 hours,6,,,6,Yes,In a relationship
+392,23,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",Between 2 and 3 hours,6,,,2,Yes,Single
+393,23,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,0,,,4,Yes,Single
+394,23,Female,Student,"Facebook, YouTube",Between 4 and 5 hours,6,,,8,Yes,Single
+395,23,Female,Student,Instagram,Between 4 and 5 hours,7,Smartphone,iOS,5,Yes,
+396,23,Female,Student,Pinterest,Between 3 and 4 hours,2,,,6,Yes,Single
+397,23,Female,Student,TikTok,Between 4 and 5 hours,2,Computer,Android,0,Yes,
+398,23,Female,Student,YouTube,Between 1 and 2 hours,2,Smartphone,Android,0,Yes,
+399,23,Female,Student,YouTube,Between 3 and 4 hours,4,Smartphone,Android,2,Yes,
+400,23,Female,Student,"YouTube, Pinterest",Less than an Hour,4,,,2,Yes,Single
+401,23,Male,Salaried Worker,Facebook,Between 2 and 3 hours,7,Smartphone,iOS,5,Yes,
+402,23,Male,Salaried Worker,Facebook,Between 3 and 4 hours,2,Smartphone,Android,0,Yes,
+403,23,Male,Salaried Worker,Facebook,Between 3 and 4 hours,5,Tablet,iOS,3,Yes,
+404,23,Male,Salaried Worker,Facebook,Less than an Hour,7,Smartphone,Android,5,Yes,
+405,23,Male,Salaried Worker,Instagram,Between 1 and 2 hours,2,Tablet,Android,0,Yes,
+406,23,Male,Salaried Worker,TikTok,Between 1 and 2 hours,4,Smartphone,iOS,2,Yes,
+407,23,Male,Salaried Worker,TikTok,Between 3 and 4 hours,5,Tablet,iOS,3,Yes,
+408,23,Male,Salaried Worker,YouTube,Between 1 and 2 hours,2,Tablet,Android,0,Yes,
+409,23,Male,Salaried Worker,YouTube,Between 3 and 4 hours,6,Smartphone,Android,4,Yes,
+410,23,Male,Salaried Worker,YouTube,Between 4 and 5 hours,1,Tablet,iOS,0,Yes,
+411,23,Male,Student,Facebook,Between 3 and 4 hours,4,Tablet,iOS,2,Yes,
+412,23,Male,Student,"Facebook, Instagram",Less than an Hour,4,,,2,Yes,Single
+413,23,Male,Student,"Facebook, Instagram, YouTube, Discord",Between 4 and 5 hours,4,,,4,Yes,In a relationship
+414,23,Male,Student,"Facebook, Instagram, YouTube, Discord, Pinterest, TikTok",More than 5 hours,4,,,6,Yes,Single
+415,23,Male,Student,"Facebook, Instagram, YouTube, Discord, Reddit, Pinterest",Between 1 and 2 hours,4,,,2,Yes,Single
+416,23,Male,Student,"Facebook, Instagram, YouTube, Reddit",Between 1 and 2 hours,4,,,4,Yes,In a relationship
+417,23,Male,Student,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 3 and 4 hours,2,,,4,Yes,Single
+418,23,Male,Student,"Facebook, Instagram, YouTube, Snapchat, Discord",More than 5 hours,4,,,6,Yes,Single
+419,23,Male,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 4 and 5 hours,4,,,4,Yes,Single
+420,23,Male,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",More than 5 hours,0,,,4,Yes,Single
+421,23,Male,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",Between 4 and 5 hours,2,,,4,Yes,In a relationship
+422,23,Male,Student,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,6,,,4,Yes,Single
+423,23,Male,Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,0,,,10,Yes,In a relationship
+424,23,Male,Student,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit",Between 4 and 5 hours,4,,,2,Yes,In a relationship
+425,23,Male,Student,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, TikTok",More than 5 hours,2,,,6,Yes,In a relationship
+426,23,Male,Student,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, TikTok",More than 5 hours,4,,,8,Yes,Single
+427,23,Male,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",Between 1 and 2 hours,4,,,4,Yes,Single
+428,23,Male,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Between 3 and 4 hours,0,,,4,Yes,Single
+429,23,Male,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Less than an Hour,0,,,2,Yes,Single
+430,23,Male,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",More than 5 hours,0,,,8,Yes,Single
+431,23,Male,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 2 and 3 hours,2,,,6,Yes,Married
+432,23,Male,Student,"Facebook, Twitter, YouTube, Discord",Between 3 and 4 hours,4,,,10,Yes,Single
+433,23,Male,Student,"Facebook, YouTube, Discord, Reddit",Between 2 and 3 hours,4,,,2,Yes,Single
+434,23,Male,Student,Instagram,Between 2 and 3 hours,4,Computer,iOS,2,Yes,
+435,23,Male,Student,Instagram,Between 4 and 5 hours,9,Smartphone,Android,7,Yes,
+436,23,Male,Student,"Instagram, YouTube, Discord, Reddit",Between 2 and 3 hours,0,,,10,Yes,Single
+437,23,Male,Student,YouTube,Less than an Hour,2,Tablet,MacOS,0,Yes,
+438,23,Male,Student,"YouTube, Discord, Reddit",Between 1 and 2 hours,0,,,2,Yes,Single
+439,23,Other,Salaried Worker,YouTube,Between 1 and 2 hours,7,Smartphone,Android,5,Yes,
+440,23,Other,Student,TikTok,Between 1 and 2 hours,2,Tablet,Android,0,Yes,
+441,24,Female,Salaried Worker,Facebook,Between 4 and 5 hours,4,Smartphone,Windows,2,Yes,
+442,24,Female,Salaried Worker,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 3 and 4 hours,4,,,2,Yes,In a relationship
+443,24,Female,Salaried Worker,YouTube,Between 4 and 5 hours,4,Smartphone,Android,2,Yes,
+444,24,Female,Student,"Facebook, Instagram, Pinterest",More than 5 hours,2,,,8,Yes,Married
+445,24,Female,Student,"Facebook, Instagram, YouTube, Discord",More than 5 hours,2,,,2,Yes,In a relationship
+446,24,Female,Student,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,4,,,10,Yes,Married
+447,24,Female,Student,"Facebook, Instagram, YouTube, Snapchat",Between 4 and 5 hours,0,,,2,Yes,Single
+448,24,Female,Student,"Facebook, Twitter, Instagram, YouTube",Between 4 and 5 hours,2,,,6,Yes,Single
+449,24,Female,Student,"Facebook, Twitter, Instagram, YouTube, Reddit",More than 5 hours,2,,,8,Yes,In a relationship
+450,24,Female,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 4 and 5 hours,0,,,4,Yes,In a relationship
+451,24,Male,Salaried Worker,Facebook,Between 3 and 4 hours,4,Computer,Windows,2,Yes,
+452,24,Male,Salaried Worker,Facebook,Between 3 and 4 hours,5,Smartphone,Android,3,Yes,
+453,24,Male,Salaried Worker,"Facebook, Instagram, YouTube",Between 2 and 3 hours,4,,,6,Yes,Single
+454,24,Male,Salaried Worker,"Facebook, Instagram, YouTube, TikTok",Between 2 and 3 hours,6,,,6,Yes,Single
+455,24,Male,Salaried Worker,"Facebook, Twitter, Instagram, YouTube",Between 2 and 3 hours,4,,,4,Yes,Single
+456,24,Male,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",More than 5 hours,6,,,4,Yes,Single
+457,24,Male,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 1 and 2 hours,0,,,2,Yes,Single
+458,24,Male,Salaried Worker,Instagram,Between 4 and 5 hours,6,Smartphone,Windows,4,Yes,
+459,24,Male,Salaried Worker,Instagram,Between 4 and 5 hours,7,Smartphone,Android,5,Yes,
+460,24,Male,Salaried Worker,Instagram,Less than an Hour,8,Computer,Android,6,Yes,
+461,24,Male,Salaried Worker,"Twitter, Discord, Reddit",More than 5 hours,4,,,2,Yes,Single
+462,24,Male,Salaried Worker,YouTube,Less than an Hour,5,Smartphone,iOS,3,Yes,
+463,24,Male,Salaried Worker,YouTube,Less than an Hour,7,Smartphone,Android,5,Yes,
+464,24,Male,Salaried Worker,"YouTube, Discord",More than 5 hours,4,,,10,Yes,Single
+465,24,Male,Salaried Worker,"YouTube, Snapchat, Discord",More than 5 hours,4,,,10,Yes,Single
+466,24,Male,Student,Facebook,Between 2 and 3 hours,2,Smartphone,Windows,0,Yes,
+467,24,Male,Student,Facebook,Between 3 and 4 hours,5,Smartphone,MacOS,3,Yes,
+468,24,Male,Student,Facebook,Between 4 and 5 hours,9,Smartphone,Windows,7,Yes,
+469,24,Male,Student,Facebook,Less than an Hour,4,Tablet,MacOS,2,Yes,
+470,24,Male,Student,"Facebook, Instagram, YouTube, Discord",Between 2 and 3 hours,0,,,4,Yes,Single
+471,24,Male,Student,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,0,,,10,Yes,Single
+472,24,Male,Student,"Facebook, Instagram, YouTube, Discord, Reddit",Between 4 and 5 hours,4,,,4,Yes,Single
+473,24,Male,Student,"Facebook, Instagram, YouTube, Discord, Reddit",More than 5 hours,4,,,8,Yes,Single
+474,24,Male,Student,"Facebook, Twitter, Instagram, YouTube, Discord",Between 3 and 4 hours,6,,,4,Yes,Single
+475,24,Male,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord",Between 2 and 3 hours,2,,,6,Yes,Single
+476,24,Male,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Between 4 and 5 hours,4,,,6,Yes,In a relationship
+477,24,Male,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 3 and 4 hours,4,,,2,Yes,Single
+478,24,Male,Student,"Facebook, YouTube, Reddit",Between 2 and 3 hours,0,,,6,Yes,Single
+479,24,Male,Student,"YouTube, Discord, Reddit",Between 1 and 2 hours,6,,,8,Yes,In a relationship
+480,24,NB,Salaried Worker,"YouTube, Reddit",Between 2 and 3 hours,2,,,4,Yes,Single
+481,24,Other,Student,YouTube,Less than an Hour,2,Smartphone,Android,0,Yes,
+482,25,Female,Salaried Worker,Facebook,Between 4 and 5 hours,7,Smartphone,Android,5,Yes,
+483,25,Female,Salaried Worker,Facebook,Less than an Hour,5,Smartphone,Android,3,Yes,
+484,25,Female,Salaried Worker,"Facebook, Instagram, YouTube",Between 4 and 5 hours,2,,,4,Yes,Single
+485,25,Female,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Reddit, Pinterest, TikTok",Between 4 and 5 hours,0,,,10,Yes,Married
+486,25,Female,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,6,,,6,Yes,In a relationship
+487,25,Female,Salaried Worker,Instagram,Between 1 and 2 hours,2,Computer,Android,0,Yes,
+488,25,Female,Salaried Worker,Instagram,Between 2 and 3 hours,6,Smartphone,Android,4,Yes,
+489,25,Female,Salaried Worker,TikTok,Between 2 and 3 hours,1,Computer,Windows,0,Yes,
+490,25,Female,Salaried Worker,TikTok,Between 4 and 5 hours,7,Smartphone,Android,5,Yes,
+491,25,Female,Salaried Worker,YouTube,Between 3 and 4 hours,2,Smartphone,MacOS,2,Yes,
+492,25,Female,Student,"Facebook, Instagram, YouTube, Pinterest, TikTok",More than 5 hours,0,,,8,Yes,Single
+493,25,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 3 and 4 hours,2,,,2,Yes,In a relationship
+494,25,Female,Student,"Facebook, Twitter, Instagram, YouTube, Discord",More than 5 hours,2,,,6,Yes,Single
+495,25,Female,Student,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 2 and 3 hours,6,,,4,Yes,Single
+496,25,Female,Student,"Facebook, YouTube, Discord",More than 5 hours,2,,,2,Yes,Single
+497,25,Female,Student,Instagram,Between 1 and 2 hours,5,Smartphone,Android,3,Yes,
+498,25,Female,Student,TikTok,Between 3 and 4 hours,4,Tablet,Android,2,Yes,
+499,25,Female,Student,"YouTube, Reddit",Between 1 and 2 hours,2,,,2,Yes,Married
+500,25,Male,Salaried Worker,Facebook,Between 1 and 2 hours,7,Computer,iOS,5,Yes,
+501,25,Male,Salaried Worker,"Facebook, Instagram, YouTube, Snapchat",Between 2 and 3 hours,0,,,4,Yes,Single
+502,25,Male,Salaried Worker,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 2 and 3 hours,2,,,2,Yes,Single
+503,25,Male,Salaried Worker,Instagram,Between 2 and 3 hours,2,Computer,Android,0,Yes,
+504,25,Male,Salaried Worker,Instagram,Between 3 and 4 hours,5,Tablet,Android,3,Yes,
+505,25,Male,Salaried Worker,Instagram,Between 3 and 4 hours,7,Smartphone,Android,5,Yes,
+506,25,Male,Salaried Worker,Reddit,Between 1 and 2 hours,0,,,2,Yes,Single
+507,25,Male,Salaried Worker,TikTok,Between 2 and 3 hours,2,Smartphone,iOS,0,Yes,
+508,25,Male,Salaried Worker,TikTok,Between 2 and 3 hours,5,Tablet,Android,3,Yes,
+509,25,Male,Salaried Worker,TikTok,Between 3 and 4 hours,7,Computer,Android,5,Yes,
+510,25,Male,Student,Facebook,Between 3 and 4 hours,7,Smartphone,iOS,5,Yes,
+511,25,Male,Student,"Facebook, Instagram, YouTube, Reddit",Between 4 and 5 hours,6,,,8,Yes,Single
+512,25,Male,Student,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, Pinterest",Less than an Hour,6,,,6,Yes,In a relationship
+513,25,Male,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 4 and 5 hours,0,,,4,Yes,Single
+514,25,Male,Student,Instagram,Between 4 and 5 hours,5,Smartphone,Android,3,Yes,
+515,25,Male,Student,YouTube,Between 1 and 2 hours,0,,,2,Yes,Single
+516,25,Male,Student,"YouTube, Snapchat, Discord, Reddit",Between 3 and 4 hours,4,,,6,Yes,Single
+517,25,Other,Salaried Worker,Facebook,Less than an Hour,5,Smartphone,Android,3,Yes,
+518,25,Other,Salaried Worker,TikTok,Between 1 and 2 hours,7,Smartphone,iOS,5,Yes,
+519,25,Other,Salaried Worker,TikTok,Between 3 and 4 hours,4,Smartphone,iOS,2,Yes,
+520,25,Other,Salaried Worker,TikTok,Between 3 and 4 hours,5,Smartphone,MacOS,3,Yes,
+521,25,Other,Salaried Worker,YouTube,Between 1 and 2 hours,3,Smartphone,Android,1,Yes,
+522,26,Female,Salaried Worker,"Facebook, Instagram, YouTube, Discord, Pinterest, TikTok",Between 4 and 5 hours,0,,,6,Yes,Single
+523,26,Female,Salaried Worker,"Facebook, Instagram, YouTube, Pinterest",More than 5 hours,2,,,8,Yes,Single
+524,26,Female,Salaried Worker,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,8,,,2,Yes,Single
+525,26,Female,Salaried Worker,"Facebook, Twitter, Instagram, YouTube",More than 5 hours,6,,,2,Yes,In a relationship
+526,26,Female,Salaried Worker,"Facebook, YouTube",Between 1 and 2 hours,2,,,4,Yes,Married
+527,26,Female,Salaried Worker,Instagram,Between 3 and 4 hours,2,Smartphone,Windows,0,Yes,
+528,26,Female,Salaried Worker,TikTok,Between 4 and 5 hours,2,Tablet,iOS,0,Yes,
+529,26,Female,Student,Facebook,Between 4 and 5 hours,2,,,4,Yes,In a relationship
+530,26,Female,Student,"Facebook, Instagram, YouTube, Pinterest",Between 3 and 4 hours,2,,,6,Yes,Single
+531,26,Female,Student,"Facebook, YouTube",More than 5 hours,2,,,4,Yes,Single
+532,26,Female,Student,"Facebook, YouTube, TikTok",Between 2 and 3 hours,2,,,6,Yes,Married
+533,26,Female,Student,Instagram,Between 3 and 4 hours,5,Tablet,iOS,3,Yes,
+534,26,Female,Student,TikTok,Between 2 and 3 hours,3,Tablet,Android,1,Yes,
+535,26,Male,Salaried Worker,Facebook,Between 2 and 3 hours,7,Tablet,iOS,5,Yes,
+536,26,Male,Salaried Worker,"Facebook, Instagram, YouTube, Discord",More than 5 hours,0,,,10,Yes,Single
+537,26,Male,Salaried Worker,"Facebook, Instagram, YouTube, Reddit",Between 2 and 3 hours,0,,,6,Yes,Single
+538,26,Male,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Between 2 and 3 hours,2,,,4,Yes,Single
+539,26,Male,Salaried Worker,Instagram,Between 4 and 5 hours,4,Smartphone,Android,2,Yes,
+540,26,Male,Salaried Worker,Instagram,Less than an Hour,5,Smartphone,Android,3,Yes,
+541,26,Male,Salaried Worker,Reddit,Less than an Hour,6,,,2,Yes,Single
+542,26,Male,Salaried Worker,TikTok,Between 1 and 2 hours,5,Smartphone,iOS,3,Yes,
+543,26,Male,Salaried Worker,TikTok,Less than an Hour,4,Smartphone,iOS,2,Yes,
+544,26,Male,Salaried Worker,YouTube,Between 1 and 2 hours,5,Smartphone,MacOS,3,Yes,
+545,26,Male,Salaried Worker,"YouTube, Discord, Reddit",Between 1 and 2 hours,8,,,2,No,In a relationship
+546,26,Male,Student,Facebook,Less than an Hour,0,,,6,Yes,Single
+547,26,Male,Student,"Facebook, Instagram, YouTube, Reddit, Pinterest, TikTok",More than 5 hours,4,,,6,Yes,Single
+548,26,Male,Student,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,4,,,6,Yes,In a relationship
+549,26,Male,Student,"Facebook, Twitter, Instagram, YouTube, Reddit",Between 1 and 2 hours,4,,,4,Yes,Single
+550,26,Male,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",Between 4 and 5 hours,2,,,4,Yes,In a relationship
+551,26,Male,Student,TikTok,Between 4 and 5 hours,7,Smartphone,Android,5,Yes,
+552,26,Male,Student,TikTok,Between 4 and 5 hours,9,Smartphone,Windows,7,Yes,
+553,26,Male,Student,YouTube,Between 2 and 3 hours,4,Smartphone,iOS,2,Yes,
+554,26,Other,Salaried Worker,Facebook,Between 3 and 4 hours,3,Tablet,MacOS,1,Yes,
+555,26,Other,Salaried Worker,YouTube,Between 2 and 3 hours,2,Smartphone,Android,0,Yes,
+556,26,Other,Student,Facebook,Between 2 and 3 hours,7,Smartphone,Android,5,Yes,
+557,26,Other,Student,Instagram,Between 3 and 4 hours,9,Smartphone,Android,7,Yes,
+558,26,Other,Student,YouTube,Between 4 and 5 hours,2,Tablet,Android,0,Yes,
+559,27,Female,Salaried Worker,Facebook,Between 1 and 2 hours,9,Tablet,iOS,7,Yes,
+560,27,Female,Salaried Worker,"Facebook, Instagram, Snapchat, Discord, Pinterest, TikTok",Between 3 and 4 hours,0,,,6,Yes,Single
+561,27,Female,Salaried Worker,"Facebook, Instagram, YouTube",Between 3 and 4 hours,8,,,8,Yes,Married
+562,27,Female,Salaried Worker,"Facebook, Instagram, YouTube",Between 4 and 5 hours,4,,,4,Yes,Married
+563,27,Female,Salaried Worker,"Facebook, Instagram, YouTube, Pinterest",Between 1 and 2 hours,6,,,2,Yes,Married
+564,27,Female,Salaried Worker,"Facebook, Instagram, YouTube, Reddit, TikTok",Between 4 and 5 hours,6,,,6,Yes,In a relationship
+565,27,Female,Salaried Worker,"Facebook, Instagram, YouTube, Snapchat",Between 4 and 5 hours,2,,,6,Yes,In a relationship
+566,27,Female,Salaried Worker,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,2,,,8,Yes,Single
+567,27,Female,Salaried Worker,TikTok,Between 1 and 2 hours,5,Computer,Windows,3,Yes,
+568,27,Female,Salaried Worker,TikTok,Between 2 and 3 hours,1,Smartphone,Windows,0,Yes,
+569,27,Female,Salaried Worker,TikTok,Between 2 and 3 hours,4,Smartphone,Android,2,Yes,
+570,27,Female,Salaried Worker,TikTok,Between 3 and 4 hours,1,Smartphone,Android,0,Yes,
+571,27,Female,Salaried Worker,YouTube,Between 4 and 5 hours,2,Smartphone,Android,0,Yes,
+572,27,Female,Student,"Facebook, Instagram, YouTube",More than 5 hours,4,,,6,Yes,Married
+573,27,Male,Salaried Worker,Facebook,Between 1 and 2 hours,4,Smartphone,Windows,2,Yes,
+574,27,Male,Salaried Worker,Facebook,Between 4 and 5 hours,4,Smartphone,Android,2,Yes,
+575,27,Male,Salaried Worker,"Facebook, Discord, Reddit",More than 5 hours,0,,,10,Yes,Married
+576,27,Male,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Reddit, Pinterest",Between 2 and 3 hours,4,,,4,Yes,Single
+577,27,Male,Salaried Worker,Instagram,Between 1 and 2 hours,7,Smartphone,Windows,5,Yes,
+578,27,Male,Salaried Worker,Instagram,Between 3 and 4 hours,7,Smartphone,iOS,5,Yes,
+579,27,Male,Salaried Worker,Instagram,Between 3 and 4 hours,8,Smartphone,Android,6,Yes,
+580,27,Male,Salaried Worker,Instagram,Between 4 and 5 hours,2,Computer,iOS,0,Yes,
+581,27,Male,Salaried Worker,TikTok,Between 1 and 2 hours,3,Computer,iOS,1,Yes,
+582,27,Male,Salaried Worker,TikTok,Between 2 and 3 hours,1,Smartphone,iOS,0,Yes,
+583,27,Male,Salaried Worker,TikTok,Between 2 and 3 hours,6,Smartphone,Android,4,Yes,
+584,27,Male,Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Reddit, TikTok",More than 5 hours,0,,,10,Yes,Single
+585,27,Male,Student,YouTube,Between 1 and 2 hours,4,Smartphone,Android,2,Yes,
+586,27,Other,Salaried Worker,TikTok,Between 2 and 3 hours,4,Smartphone,iOS,2,Yes,
+587,27,Other,Salaried Worker,YouTube,Between 3 and 4 hours,7,Computer,Android,5,Yes,
+588,28,Female,Salaried Worker,"Facebook, Instagram, YouTube, Pinterest",Between 2 and 3 hours,0,,,2,Yes,Married
+589,28,Female,Salaried Worker,Instagram,Between 1 and 2 hours,7,Tablet,Android,5,Yes,
+590,28,Female,Salaried Worker,Instagram,Between 2 and 3 hours,3,Smartphone,Android,1,Yes,
+591,28,Female,Salaried Worker,Instagram,Less than an Hour,2,Tablet,iOS,0,Yes,
+592,28,Female,Salaried Worker,TikTok,Between 1 and 2 hours,2,Smartphone,Android,0,Yes,
+593,28,Female,Salaried Worker,TikTok,Between 1 and 2 hours,2,Smartphone,Windows,0,Yes,
+594,28,Female,Salaried Worker,YouTube,Less than an Hour,4,Tablet,Windows,2,Yes,
+595,28,Female,Student,"Facebook, Instagram, YouTube, Discord, Reddit",Between 4 and 5 hours,2,,,2,Yes,Single
+596,28,Female,Student,"Facebook, YouTube",Between 3 and 4 hours,2,,,8,Yes,Single
+597,28,Female,Student,YouTube,Between 3 and 4 hours,5,Tablet,iOS,3,Yes,
+598,28,Male,Salaried Worker,Facebook,Between 3 and 4 hours,7,Smartphone,Android,5,Yes,
+599,28,Male,Salaried Worker,Facebook,Between 4 and 5 hours,9,Tablet,Android,7,Yes,
+600,28,Male,Salaried Worker,Instagram,Between 3 and 4 hours,2,Smartphone,Android,0,Yes,
+601,28,Male,Salaried Worker,Instagram,Between 4 and 5 hours,5,Tablet,MacOS,3,Yes,
+602,28,Male,Salaried Worker,Instagram,Less than an Hour,5,Smartphone,Android,3,Yes,
+603,28,Male,Salaried Worker,TikTok,Between 1 and 2 hours,5,Smartphone,Android,3,Yes,
+604,28,Male,Salaried Worker,YouTube,Between 4 and 5 hours,6,Smartphone,iOS,4,Yes,
+605,28,Male,Salaried Worker,YouTube,Between 4 and 5 hours,7,Computer,Android,5,Yes,
+606,28,Male,Student,Facebook,Between 2 and 3 hours,7,Smartphone,Android,5,Yes,
+607,28,Male,Student,"Facebook, YouTube, Discord, Reddit",Between 1 and 2 hours,4,,,4,Yes,Single
+608,28,Male,Student,"Facebook, YouTube, Discord, Reddit",Between 3 and 4 hours,0,,,8,Yes,Single
+609,28,Male,Student,TikTok,Between 1 and 2 hours,4,Computer,MacOS,2,Yes,
+610,28,Male,Student,TikTok,Between 3 and 4 hours,7,Smartphone,MacOS,5,Yes,
+611,28,Male,Student,YouTube,Less than an Hour,4,Smartphone,Android,2,Yes,
+612,28,Other,Student,YouTube,Between 2 and 3 hours,4,Smartphone,iOS,2,Yes,
+613,29,Female,Salaried Worker,Facebook,Less than an Hour,9,Computer,iOS,7,Yes,
+614,29,Female,Salaried Worker,"Facebook, Instagram",Between 3 and 4 hours,0,,,2,Yes,Single
+615,29,Female,Salaried Worker,"Facebook, Instagram, YouTube, Pinterest",Between 1 and 2 hours,6,,,2,Yes,Married
+616,29,Female,Salaried Worker,"Facebook, Instagram, YouTube, Pinterest",More than 5 hours,2,,,10,Yes,Married
+617,29,Female,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Reddit, Pinterest",Between 1 and 2 hours,0,,,2,Yes,Single
+618,29,Female,Salaried Worker,"Facebook, YouTube",Between 2 and 3 hours,6,,,8,Yes,Married
+619,29,Female,Salaried Worker,Instagram,Between 1 and 2 hours,7,Smartphone,Windows,5,Yes,
+620,29,Female,Salaried Worker,Instagram,Between 4 and 5 hours,3,Smartphone,iOS,1,Yes,
+621,29,Female,Salaried Worker,Instagram,Less than an Hour,8,Smartphone,iOS,6,Yes,
+622,29,Female,Salaried Worker,TikTok,Between 2 and 3 hours,4,Smartphone,Android,2,Yes,
+623,29,Female,Salaried Worker,TikTok,Between 2 and 3 hours,7,Smartphone,Android,5,Yes,
+624,29,Female,Salaried Worker,TikTok,Between 3 and 4 hours,7,Smartphone,MacOS,5,Yes,
+625,29,Female,Salaried Worker,YouTube,Less than an Hour,8,Tablet,Android,6,Yes,
+626,29,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,0,,,6,Yes,Single
+627,29,Male,Salaried Worker,Facebook,Between 2 and 3 hours,1,Tablet,Android,0,Yes,
+628,29,Male,Salaried Worker,Facebook,Between 2 and 3 hours,5,Smartphone,Android,3,Yes,
+629,29,Male,Salaried Worker,Facebook,Between 2 and 3 hours,5,Tablet,Android,3,Yes,
+630,29,Male,Salaried Worker,TikTok,Between 1 and 2 hours,4,Tablet,iOS,2,Yes,
+631,29,Male,Salaried Worker,TikTok,Between 2 and 3 hours,5,Smartphone,Android,3,Yes,
+632,29,Male,Salaried Worker,TikTok,Between 4 and 5 hours,4,Smartphone,Android,2,Yes,
+633,29,Male,Salaried Worker,YouTube,Between 1 and 2 hours,3,Computer,Android,1,Yes,
+634,29,Male,Salaried Worker,YouTube,Between 2 and 3 hours,7,Smartphone,Windows,5,Yes,
+635,29,Male,Student,Instagram,Between 1 and 2 hours,1,Smartphone,Windows,0,Yes,
+636,29,Male,Student,TikTok,Between 2 and 3 hours,5,Smartphone,Windows,3,Yes,
+637,29,Male,Student,YouTube,Between 4 and 5 hours,4,Smartphone,Android,2,Yes,
+638,29,Other,Salaried Worker,Facebook,Between 1 and 2 hours,2,Tablet,iOS,0,Yes,
+639,29,Other,Salaried Worker,TikTok,Between 3 and 4 hours,9,Smartphone,Android,7,Yes,
+640,29,Other,Student,Facebook,Between 1 and 2 hours,7,Smartphone,iOS,5,Yes,
+641,30,Female,Retired,"Facebook, Instagram, YouTube",Between 3 and 4 hours,4,,,2,Yes,Married
+642,30,Female,Salaried Worker,Facebook,Between 4 and 5 hours,7,Tablet,Android,5,Yes,
+643,30,Female,Salaried Worker,"Facebook, Instagram, YouTube",Between 2 and 3 hours,2,,,6,Yes,Single
+644,30,Female,Salaried Worker,"Facebook, Instagram, YouTube",Between 4 and 5 hours,2,,,8,Yes,Married
+645,30,Female,Salaried Worker,"Facebook, TikTok",Between 2 and 3 hours,2,,,8,Yes,Single
+646,30,Female,Salaried Worker,Instagram,Between 2 and 3 hours,3,Smartphone,Android,1,Yes,
+647,30,Female,Salaried Worker,Instagram,Between 2 and 3 hours,5,Smartphone,Android,3,Yes,
+648,30,Female,Salaried Worker,Instagram,Between 3 and 4 hours,9,Tablet,Android,7,Yes,
+649,30,Female,Salaried Worker,Instagram,Between 4 and 5 hours,2,,,6,Yes,Single
+650,30,Female,Salaried Worker,TikTok,Between 4 and 5 hours,4,Tablet,Android,2,Yes,
+651,30,Female,Salaried Worker,YouTube,Between 2 and 3 hours,1,Smartphone,iOS,0,Yes,
+652,30,Male,Salaried Worker,Facebook,Between 3 and 4 hours,4,Smartphone,Android,2,Yes,
+653,30,Male,Salaried Worker,"Facebook, Instagram, YouTube",Between 1 and 2 hours,6,,,2,Yes,In a relationship
+654,30,Male,Salaried Worker,Instagram,Between 1 and 2 hours,4,Tablet,Android,2,Yes,
+655,30,Male,Salaried Worker,TikTok,Less than an Hour,4,Smartphone,Android,2,Yes,
+656,30,Male,Salaried Worker,YouTube,Between 1 and 2 hours,7,Computer,iOS,5,Yes,
+657,30,Male,Salaried Worker,YouTube,Between 2 and 3 hours,4,Tablet,Android,2,Yes,
+658,30,Male,Salaried Worker,YouTube,Between 3 and 4 hours,4,Tablet,Android,2,Yes,
+659,30,Male,Student,Facebook,Between 3 and 4 hours,9,Smartphone,iOS,7,Yes,
+660,30,Other,Salaried Worker,Instagram,Between 1 and 2 hours,6,Tablet,MacOS,4,Yes,
+661,30,Other,Salaried Worker,Instagram,Between 2 and 3 hours,4,Smartphone,Android,2,Yes,
+662,30,Other,Salaried Worker,TikTok,Between 1 and 2 hours,4,Tablet,iOS,2,Yes,
+663,30,Other,Salaried Worker,YouTube,Less than an Hour,5,Tablet,Android,3,Yes,
+664,30,Other,Student,Facebook,Between 4 and 5 hours,4,Smartphone,Android,2,Yes,
+665,31,Female,Salaried Worker,Facebook,Between 4 and 5 hours,4,Tablet,iOS,2,Yes,
+666,31,Female,Salaried Worker,Facebook,Between 4 and 5 hours,7,Tablet,Android,5,Yes,
+667,31,Female,Salaried Worker,Facebook,Less than an Hour,4,Tablet,Android,2,Yes,
+668,31,Female,Salaried Worker,Instagram,Between 1 and 2 hours,4,Smartphone,Windows,2,Yes,
+669,31,Female,Salaried Worker,Instagram,Between 1 and 2 hours,7,Tablet,Android,5,Yes,
+670,31,Female,Salaried Worker,Instagram,Less than an Hour,2,Computer,Android,0,Yes,
+671,31,Female,Salaried Worker,YouTube,Between 3 and 4 hours,7,Smartphone,Android,5,Yes,
+672,31,Female,Student,YouTube,Less than an Hour,4,Tablet,iOS,2,Yes,
+673,31,Male,Salaried Worker,Facebook,Between 3 and 4 hours,5,Smartphone,Android,3,Yes,
+674,31,Male,Salaried Worker,Facebook,Between 4 and 5 hours,5,Tablet,Android,3,Yes,
+675,31,Male,Salaried Worker,"Facebook, Instagram, YouTube, Discord",Between 2 and 3 hours,4,,,6,Yes,Single
+676,31,Male,Salaried Worker,Instagram,Between 1 and 2 hours,1,Smartphone,Android,0,Yes,
+677,31,Male,Salaried Worker,Instagram,Between 1 and 2 hours,9,Tablet,iOS,7,Yes,
+678,31,Male,Salaried Worker,TikTok,Between 3 and 4 hours,4,Smartphone,MacOS,2,Yes,
+679,31,Male,Salaried Worker,TikTok,Between 3 and 4 hours,5,Computer,Android,3,Yes,
+680,31,Male,Salaried Worker,YouTube,Between 1 and 2 hours,5,Smartphone,MacOS,3,Yes,
+681,31,Male,Salaried Worker,YouTube,Less than an Hour,3,Smartphone,Windows,1,Yes,
+682,31,Male,Salaried Worker,YouTube,Less than an Hour,4,Computer,Android,2,Yes,
+683,31,Male,Student,Facebook,Less than an Hour,4,Smartphone,iOS,2,Yes,
+684,31,Male,Student,Instagram,Between 2 and 3 hours,7,Smartphone,Windows,5,Yes,
+685,32,Female,Salaried Worker,Facebook,Less than an Hour,4,Tablet,Android,2,Yes,
+686,32,Female,Salaried Worker,"Facebook, Instagram",Between 3 and 4 hours,0,,,6,Yes,Married
+687,32,Female,Salaried Worker,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 4 and 5 hours,8,,,8,Yes,Married
+688,32,Female,Salaried Worker,Instagram,Between 1 and 2 hours,7,Smartphone,Android,5,Yes,
+689,32,Female,Salaried Worker,Instagram,Between 3 and 4 hours,4,Smartphone,Android,2,Yes,
+690,32,Female,Salaried Worker,Instagram,Less than an Hour,7,Smartphone,MacOS,5,Yes,
+691,32,Female,Salaried Worker,Reddit,Between 1 and 2 hours,8,,,4,Yes,Married
+692,32,Female,Salaried Worker,YouTube,Between 1 and 2 hours,4,Tablet,Android,2,Yes,
+693,32,Female,Salaried Worker,YouTube,Between 2 and 3 hours,4,Smartphone,Android,2,Yes,
+694,32,Female,Salaried Worker,YouTube,Between 3 and 4 hours,7,Tablet,Android,5,Yes,
+695,32,Male,Salaried Worker,Facebook,Between 1 and 2 hours,4,Computer,iOS,2,Yes,
+696,32,Male,Salaried Worker,Facebook,Between 1 and 2 hours,7,Computer,Android,5,Yes,
+697,32,Male,Salaried Worker,Facebook,Less than an Hour,2,Tablet,MacOS,0,Yes,
+698,32,Male,Salaried Worker,"Facebook, YouTube, Discord, Reddit",Between 1 and 2 hours,8,,,6,Yes,Married
+699,32,Male,Salaried Worker,YouTube,Between 2 and 3 hours,5,Computer,Windows,3,Yes,
+700,32,Male,Salaried Worker,YouTube,Between 4 and 5 hours,7,Smartphone,Android,5,Yes,
+701,32,Male,Salaried Worker,YouTube,Less than an Hour,4,Smartphone,Android,2,Yes,
+702,32,Male,Student,Facebook,Between 1 and 2 hours,7,Smartphone,iOS,5,Yes,
+703,32,Male,Student,Facebook,Between 3 and 4 hours,7,Tablet,Android,5,Yes,
+704,32,Male,Student,Facebook,Less than an Hour,5,Smartphone,MacOS,3,Yes,
+705,32,Other,Salaried Worker,Facebook,Between 3 and 4 hours,4,Smartphone,Android,2,Yes,
+706,32,Other,Salaried Worker,TikTok,Between 1 and 2 hours,4,Tablet,Android,2,Yes,
+707,33,Female,Salaried Worker,Facebook,Between 3 and 4 hours,1,Smartphone,Android,0,Yes,
+708,33,Female,Salaried Worker,Facebook,Between 3 and 4 hours,6,Smartphone,Windows,4,Yes,
+709,33,Female,Salaried Worker,"Facebook, YouTube",Between 3 and 4 hours,8,,,2,Yes,Single
+710,33,Female,Salaried Worker,Instagram,Between 1 and 2 hours,4,Smartphone,iOS,2,Yes,
+711,33,Female,Salaried Worker,Instagram,Less than an Hour,7,Tablet,Android,5,Yes,
+712,33,Female,Salaried Worker,TikTok,Between 3 and 4 hours,4,Tablet,iOS,2,Yes,
+713,33,Female,Salaried Worker,TikTok,Between 3 and 4 hours,7,Tablet,Android,5,Yes,
+714,33,Female,Salaried Worker,YouTube,Between 1 and 2 hours,3,Tablet,Android,1,Yes,
+715,33,Female,Salaried Worker,YouTube,Between 1 and 2 hours,9,Tablet,Android,7,Yes,
+716,33,Female,Salaried Worker,YouTube,Less than an Hour,4,Smartphone,iOS,2,Yes,
+717,33,Female,Student,YouTube,Between 1 and 2 hours,7,Tablet,MacOS,5,Yes,
+718,33,Male,Salaried Worker,Facebook,Between 4 and 5 hours,5,Smartphone,Android,3,Yes,
+719,33,Male,Salaried Worker,Facebook,Less than an Hour,4,Smartphone,Windows,2,Yes,
+720,33,Male,Salaried Worker,Instagram,Between 1 and 2 hours,7,Tablet,iOS,5,Yes,
+721,33,Male,Salaried Worker,Instagram,Between 2 and 3 hours,6,Tablet,iOS,4,Yes,
+722,33,Male,Salaried Worker,"Instagram, YouTube",Between 3 and 4 hours,8,,,6,Yes,Married
+723,33,Male,Salaried Worker,TikTok,Between 4 and 5 hours,3,Smartphone,Android,1,Yes,
+724,33,Male,Salaried Worker,TikTok,Less than an Hour,3,Smartphone,Android,1,Yes,
+725,33,Male,Salaried Worker,YouTube,Between 2 and 3 hours,4,Computer,Android,2,Yes,
+726,33,Male,Salaried Worker,YouTube,Between 2 and 3 hours,8,Smartphone,Android,6,Yes,
+727,33,Male,Salaried Worker,YouTube,Less than an Hour,5,Tablet,Windows,3,Yes,
+728,33,Other,Salaried Worker,Facebook,Between 1 and 2 hours,4,Smartphone,Windows,2,Yes,
+729,33,Other,Salaried Worker,Instagram,Between 3 and 4 hours,7,Tablet,Android,5,Yes,
+730,34,Female,Salaried Worker,Facebook,Between 1 and 2 hours,8,,,2,Yes,Married
+731,34,Female,Salaried Worker,Facebook,Between 1 and 2 hours,8,,,2,Yes,Married
+732,34,Female,Salaried Worker,Facebook,Between 3 and 4 hours,2,Smartphone,Android,0,Yes,
+733,34,Female,Salaried Worker,Facebook,Less than an Hour,2,Smartphone,Windows,0,Yes,
+734,34,Female,Salaried Worker,Facebook,More than 5 hours,6,,,8,Yes,Married
+735,34,Female,Salaried Worker,"Facebook, Instagram, YouTube",Less than an Hour,8,,,2,Yes,Married
+736,34,Female,Salaried Worker,TikTok,Between 3 and 4 hours,7,Tablet,Windows,5,Yes,
+737,34,Female,Salaried Worker,YouTube,Between 1 and 2 hours,5,Computer,Android,3,Yes,
+738,34,Female,Student,Instagram,Between 1 and 2 hours,6,Computer,iOS,4,Yes,
+739,34,Female,Student,Instagram,Between 2 and 3 hours,1,Smartphone,Android,0,Yes,
+740,34,Female,Student,YouTube,Between 2 and 3 hours,3,Smartphone,Android,1,Yes,
+741,34,Male,Salaried Worker,Facebook,Between 3 and 4 hours,2,Tablet,iOS,3,Yes,
+742,34,Male,Salaried Worker,Facebook,Between 3 and 4 hours,7,Tablet,Android,5,Yes,
+743,34,Male,Salaried Worker,"Facebook, Twitter, Instagram, YouTube",Between 1 and 2 hours,6,,,6,Yes,Divorced
+744,34,Male,Salaried Worker,"Facebook, YouTube, TikTok",More than 5 hours,0,,,4,Yes,Married
+745,34,Male,Salaried Worker,Instagram,Between 3 and 4 hours,5,Tablet,Android,3,Yes,
+746,34,Male,Salaried Worker,Instagram,Between 4 and 5 hours,5,Smartphone,MacOS,3,Yes,
+747,34,Male,Salaried Worker,TikTok,Between 2 and 3 hours,2,Tablet,Android,0,Yes,
+748,34,Male,Salaried Worker,TikTok,Between 3 and 4 hours,7,Computer,iOS,5,Yes,
+749,34,Male,Salaried Worker,TikTok,Less than an Hour,4,Computer,Android,2,Yes,
+750,34,Male,Salaried Worker,YouTube,Between 1 and 2 hours,4,Smartphone,Android,2,Yes,
+751,34,Male,Salaried Worker,YouTube,Between 1 and 2 hours,7,Tablet,iOS,5,Yes,
+752,34,Male,Salaried Worker,YouTube,Between 4 and 5 hours,2,Smartphone,iOS,0,Yes,
+753,34,Male,Student,TikTok,Between 1 and 2 hours,4,Tablet,Windows,2,Yes,
+754,34,Male,Student,TikTok,Between 2 and 3 hours,7,Computer,Android,5,Yes,
+755,34,Other,Salaried Worker,Facebook,Less than an Hour,5,Tablet,iOS,3,Yes,
+756,34,Other,Student,Instagram,Between 1 and 2 hours,5,Smartphone,Windows,3,Yes,
+757,34,Other,Student,TikTok,Less than an Hour,7,Smartphone,iOS,5,Yes,
+758,35,Female,Salaried Worker,Facebook,Between 1 and 2 hours,7,Computer,Android,5,Yes,
+759,35,Female,Salaried Worker,Facebook,Between 2 and 3 hours,4,,,4,Yes,Married
+760,35,Female,Salaried Worker,"Facebook, Instagram, YouTube",Between 1 and 2 hours,6,,,4,Yes,Married
+761,35,Female,Salaried Worker,"Facebook, YouTube",Between 3 and 4 hours,2,,,6,Yes,Married
+762,35,Female,Salaried Worker,"Facebook, YouTube",Less than an Hour,8,,,2,Yes,Divorced
+763,35,Female,Salaried Worker,Instagram,Between 2 and 3 hours,2,Tablet,iOS,0,Yes,
+764,35,Female,Salaried Worker,YouTube,Between 3 and 4 hours,7,Smartphone,Windows,5,Yes,
+765,35,Female,Student,TikTok,Less than an Hour,7,Smartphone,Windows,5,Yes,
+766,35,Male,Salaried Worker,Facebook,Between 1 and 2 hours,5,Smartphone,Android,3,Yes,
+767,35,Male,Salaried Worker,"Facebook, Instagram, YouTube, Discord",Less than an Hour,4,,,4,Yes,Married
+768,35,Male,Salaried Worker,"Facebook, Snapchat, Reddit",Between 3 and 4 hours,0,,,10,Yes,Single
+769,35,Male,Salaried Worker,"Facebook, Twitter, Instagram, YouTube",Between 2 and 3 hours,2,,,8,Yes,Married
+770,35,Male,Salaried Worker,"Facebook, YouTube, Pinterest",Between 2 and 3 hours,4,,,6,Yes,Married
+771,35,Male,Salaried Worker,Instagram,Between 1 and 2 hours,9,Tablet,Android,7,Yes,
+772,35,Male,Student,Facebook,Between 3 and 4 hours,4,Smartphone,MacOS,2,Yes,
+773,35,Male,Student,Instagram,Between 4 and 5 hours,3,Tablet,Android,1,Yes,
+774,35,Male,Student,Instagram,Less than an Hour,4,Smartphone,Windows,2,Yes,
+775,35,Male,Student,TikTok,Between 4 and 5 hours,7,Smartphone,Android,5,Yes,
+776,35,Other,Salaried Worker,Facebook,Between 2 and 3 hours,5,Smartphone,Android,3,Yes,
+777,35,Other,Salaried Worker,Instagram,Between 1 and 2 hours,4,Smartphone,Windows,2,Yes,
+778,35,Other,Salaried Worker,Instagram,Between 3 and 4 hours,6,Smartphone,Android,4,Yes,
+779,35,Other,Salaried Worker,TikTok,Between 4 and 5 hours,2,Tablet,MacOS,0,Yes,
+780,35,Other,Salaried Worker,YouTube,Between 4 and 5 hours,2,Smartphone,Android,0,Yes,
+781,35,Other,Student,Facebook,Between 3 and 4 hours,5,Tablet,iOS,3,Yes,
+782,36,Female,Salaried Worker,Facebook,Between 4 and 5 hours,5,Smartphone,Android,3,Yes,
+783,36,Female,Salaried Worker,"Facebook, YouTube, Snapchat",Between 1 and 2 hours,6,,,2,Yes,Married
+784,36,Female,Salaried Worker,Instagram,Between 1 and 2 hours,5,Tablet,iOS,3,Yes,
+785,36,Female,Salaried Worker,Instagram,Between 2 and 3 hours,2,Computer,Android,0,Yes,
+786,36,Female,Salaried Worker,Instagram,Between 2 and 3 hours,6,Tablet,Windows,4,Yes,
+787,36,Female,Salaried Worker,Instagram,Less than an Hour,3,Computer,iOS,1,Yes,
+788,36,Female,Salaried Worker,Instagram,Less than an Hour,4,Smartphone,Android,2,Yes,
+789,36,Female,Salaried Worker,TikTok,Between 1 and 2 hours,6,Smartphone,MacOS,4,Yes,
+790,36,Female,Salaried Worker,TikTok,Between 2 and 3 hours,4,Smartphone,iOS,2,Yes,
+791,36,Female,Salaried Worker,YouTube,Between 2 and 3 hours,8,,,2,Yes,Married
+792,36,Male,Salaried Worker,Facebook,Between 3 and 4 hours,5,Tablet,MacOS,3,Yes,
+793,36,Male,Salaried Worker,Facebook,Less than an Hour,4,Computer,Android,2,Yes,
+794,36,Male,Salaried Worker,"Facebook, Instagram, YouTube, Pinterest",Less than an Hour,6,,,2,Yes,Married
+795,36,Male,Salaried Worker,Instagram,Between 3 and 4 hours,7,Tablet,Android,5,Yes,
+796,36,Male,Salaried Worker,TikTok,Between 2 and 3 hours,2,Computer,Android,0,Yes,
+797,36,Male,Salaried Worker,TikTok,Between 2 and 3 hours,7,Smartphone,Android,5,Yes,
+798,36,Male,Salaried Worker,TikTok,Less than an Hour,4,Smartphone,iOS,2,Yes,
+799,36,Male,Salaried Worker,YouTube,Less than an Hour,8,Tablet,Windows,6,Yes,
+800,36,Male,Student,Instagram,Between 1 and 2 hours,3,Smartphone,Android,1,Yes,
+801,36,Male,Student,Instagram,Between 4 and 5 hours,7,Smartphone,iOS,5,Yes,
+802,36,Other,Student,Instagram,Between 4 and 5 hours,5,Tablet,Android,3,Yes,
+803,36,Other,Student,TikTok,Between 1 and 2 hours,7,Tablet,Android,5,Yes,
+804,36,Other,Student,YouTube,Less than an Hour,5,Smartphone,Android,3,Yes,
+805,37,Female,Retired,"Facebook, Instagram, YouTube",Between 1 and 2 hours,2,,,4,Yes,Married
+806,37,Female,Salaried Worker,Facebook,Between 1 and 2 hours,7,Smartphone,Android,5,Yes,
+807,37,Female,Salaried Worker,Facebook,Between 2 and 3 hours,7,Tablet,Android,5,Yes,
+808,37,Female,Salaried Worker,Facebook,Between 3 and 4 hours,7,Smartphone,iOS,5,Yes,
+809,37,Female,Salaried Worker,"Facebook, YouTube",Between 1 and 2 hours,2,,,8,Yes,Married
+810,37,Female,Salaried Worker,"Facebook, YouTube",Between 1 and 2 hours,4,,,2,Yes,In a relationship
+811,37,Female,Salaried Worker,Instagram,Between 4 and 5 hours,7,Smartphone,Android,5,Yes,
+812,37,Female,Salaried Worker,TikTok,Between 4 and 5 hours,7,Smartphone,iOS,5,Yes,
+813,37,Male,Salaried Worker,Facebook,Between 4 and 5 hours,1,Computer,Android,0,Yes,
+814,37,Male,Salaried Worker,"Facebook, YouTube",Between 1 and 2 hours,6,,,2,Yes,Married
+815,37,Male,Salaried Worker,Instagram,Between 3 and 4 hours,7,Smartphone,iOS,5,Yes,
+816,37,Male,Salaried Worker,Instagram,Less than an Hour,2,Smartphone,iOS,0,Yes,
+817,37,Male,Salaried Worker,TikTok,Between 4 and 5 hours,4,Smartphone,Android,2,Yes,
+818,37,Male,Salaried Worker,TikTok,Between 4 and 5 hours,5,Smartphone,Windows,3,Yes,
+819,37,Male,Salaried Worker,TikTok,Less than an Hour,7,Smartphone,Windows,5,Yes,
+820,37,Male,Salaried Worker,YouTube,Between 1 and 2 hours,4,Smartphone,Android,2,Yes,
+821,37,Male,Salaried Worker,YouTube,Between 4 and 5 hours,8,Smartphone,Android,6,Yes,
+822,37,Male,Student,YouTube,Between 1 and 2 hours,9,Computer,Android,7,Yes,
+823,37,Male,Student,YouTube,Between 3 and 4 hours,9,Tablet,MacOS,7,Yes,
+824,37,Male,Student,YouTube,Between 4 and 5 hours,5,Smartphone,iOS,3,Yes,
+825,37,Other,Salaried Worker,Instagram,Between 2 and 3 hours,2,Smartphone,Windows,0,Yes,
+826,37,Other,Salaried Worker,TikTok,Between 2 and 3 hours,4,Smartphone,iOS,2,Yes,
+827,38,Female,Salaried Worker,Facebook,Less than an Hour,4,Smartphone,iOS,2,Yes,
+828,38,Female,Salaried Worker,Facebook,Less than an Hour,6,,,6,Yes,Married
+829,38,Female,Salaried Worker,Instagram,Between 1 and 2 hours,2,Smartphone,Android,0,Yes,
+830,38,Female,Salaried Worker,TikTok,Between 3 and 4 hours,9,Computer,MacOS,7,Yes,
+831,38,Female,Salaried Worker,TikTok,Between 4 and 5 hours,9,Tablet,Android,7,Yes,
+832,38,Female,Student,Instagram,Between 1 and 2 hours,7,Computer,Android,5,Yes,
+833,38,Male,Salaried Worker,Facebook,Between 4 and 5 hours,9,Smartphone,Android,7,Yes,
+834,38,Male,Salaried Worker,"Facebook, Twitter, YouTube, Discord, Reddit",Between 4 and 5 hours,6,,,6,Yes,Married
+835,38,Male,Salaried Worker,Instagram,Between 1 and 2 hours,4,Smartphone,Android,2,Yes,
+836,38,Male,Salaried Worker,Instagram,Between 1 and 2 hours,7,Computer,Android,5,Yes,
+837,38,Male,Salaried Worker,Instagram,Between 3 and 4 hours,4,Smartphone,Android,2,Yes,
+838,38,Male,Salaried Worker,TikTok,Between 1 and 2 hours,8,Tablet,Android,6,Yes,
+839,38,Male,Salaried Worker,TikTok,Between 2 and 3 hours,7,Computer,Android,5,Yes,
+840,38,Male,Salaried Worker,"Twitter, YouTube, Discord, Reddit",Between 1 and 2 hours,6,,,2,Yes,Married
+841,38,Male,Salaried Worker,YouTube,Between 2 and 3 hours,4,Smartphone,Android,2,Yes,
+842,38,Male,Salaried Worker,YouTube,Less than an Hour,2,Tablet,iOS,0,Yes,
+843,38,Male,Student,Facebook,Between 1 and 2 hours,8,Smartphone,iOS,6,Yes,
+844,38,Male,Student,Instagram,Between 4 and 5 hours,9,Computer,Android,7,Yes,
+845,38,Male,Student,YouTube,Between 1 and 2 hours,2,Smartphone,MacOS,0,Yes,
+846,38,Male,Student,YouTube,Less than an Hour,5,Tablet,Android,3,Yes,
+847,38,Other,Salaried Worker,TikTok,Between 1 and 2 hours,4,Smartphone,iOS,2,Yes,
+848,38,Other,Student,Instagram,Between 4 and 5 hours,1,Tablet,MacOS,0,Yes,
+849,39,Female,Salaried Worker,Facebook,Between 1 and 2 hours,5,Smartphone,iOS,3,Yes,
+850,39,Female,Salaried Worker,Facebook,Between 3 and 4 hours,4,Tablet,Android,2,Yes,
+851,39,Female,Salaried Worker,Facebook,Between 3 and 4 hours,7,Smartphone,Android,5,Yes,
+852,39,Female,Salaried Worker,Facebook,Less than an Hour,5,Smartphone,iOS,3,Yes,
+853,39,Female,Salaried Worker,Instagram,Between 4 and 5 hours,2,Smartphone,iOS,0,Yes,
+854,39,Female,Salaried Worker,TikTok,Between 3 and 4 hours,4,Tablet,Android,2,Yes,
+855,39,Female,Salaried Worker,YouTube,Less than an Hour,3,Smartphone,Android,1,Yes,
+856,39,Female,Student,TikTok,Between 1 and 2 hours,7,Smartphone,Android,5,Yes,
+857,39,Female,Student,YouTube,Between 1 and 2 hours,5,Smartphone,iOS,3,Yes,
+858,39,Male,Salaried Worker,Facebook,Between 4 and 5 hours,4,Smartphone,iOS,2,Yes,
+859,39,Male,Salaried Worker,Instagram,Between 2 and 3 hours,6,Smartphone,Android,4,Yes,
+860,39,Male,Salaried Worker,Instagram,Between 4 and 5 hours,7,Tablet,Android,5,Yes,
+861,39,Male,Salaried Worker,Instagram,Between 4 and 5 hours,7,Tablet,Android,5,Yes,
+862,39,Male,Salaried Worker,TikTok,Between 4 and 5 hours,7,Smartphone,Android,5,Yes,
+863,39,Male,Salaried Worker,YouTube,Between 2 and 3 hours,9,Smartphone,Android,7,Yes,
+864,39,Male,Salaried Worker,YouTube,Less than an Hour,4,Smartphone,Android,2,Yes,
+865,39,Male,Student,Facebook,Between 3 and 4 hours,5,Computer,Windows,3,Yes,
+866,39,Male,Student,YouTube,Between 4 and 5 hours,4,Smartphone,Android,2,Yes,
+867,39,Other,Salaried Worker,Instagram,Between 1 and 2 hours,4,Tablet,Android,2,Yes,
+868,39,Other,Salaried Worker,TikTok,Between 2 and 3 hours,3,Smartphone,Android,1,Yes,
+869,39,Other,Student,Facebook,Between 1 and 2 hours,7,Smartphone,Windows,5,Yes,
+870,39,Other,Student,Facebook,Between 2 and 3 hours,7,Smartphone,Android,5,Yes,
+871,40,Female,Salaried Worker,Facebook,Between 1 and 2 hours,4,Smartphone,Android,2,Yes,
+872,40,Female,Salaried Worker,Facebook,Between 3 and 4 hours,2,Smartphone,MacOS,0,Yes,
+873,40,Female,Salaried Worker,"Facebook, Twitter, Instagram, YouTube",Between 1 and 2 hours,2,,,2,Yes,Single
+874,40,Female,Salaried Worker,Instagram,Between 2 and 3 hours,7,Smartphone,Android,5,Yes,
+875,40,Female,Salaried Worker,TikTok,Between 1 and 2 hours,9,Tablet,MacOS,7,Yes,
+876,40,Female,Salaried Worker,TikTok,Less than an Hour,4,Smartphone,Android,2,Yes,
+877,40,Female,Salaried Worker,YouTube,Between 4 and 5 hours,3,Smartphone,iOS,1,Yes,
+878,40,Female,Student,TikTok,Less than an Hour,1,Tablet,Windows,0,Yes,
+879,40,Male,Salaried Worker,Instagram,Between 1 and 2 hours,8,Smartphone,Android,6,Yes,
+880,40,Male,Salaried Worker,Instagram,Between 2 and 3 hours,2,Tablet,Android,0,Yes,
+881,40,Male,Salaried Worker,Instagram,Between 2 and 3 hours,6,Tablet,Android,4,Yes,
+882,40,Male,Salaried Worker,Instagram,Between 3 and 4 hours,7,Smartphone,iOS,5,Yes,
+883,40,Male,Salaried Worker,Instagram,Less than an Hour,7,Computer,Android,5,Yes,
+884,40,Male,Salaried Worker,Instagram,Less than an Hour,7,Smartphone,Windows,5,Yes,
+885,40,Male,Salaried Worker,TikTok,Between 3 and 4 hours,2,Tablet,Android,0,Yes,
+886,40,Male,Salaried Worker,TikTok,Between 4 and 5 hours,7,Smartphone,Android,5,Yes,
+887,40,Male,Salaried Worker,TikTok,Less than an Hour,4,Smartphone,iOS,2,Yes,
+888,40,Male,Salaried Worker,TikTok,Less than an Hour,7,Smartphone,Android,5,Yes,
+889,40,Male,Salaried Worker,"Twitter, YouTube, Reddit",Between 2 and 3 hours,6,,,6,Yes,Married
+890,40,Male,Student,Instagram,Between 4 and 5 hours,4,Computer,iOS,2,Yes,
+891,40,Male,Student,YouTube,Between 1 and 2 hours,4,Smartphone,Windows,2,Yes,
+892,40,Other,Salaried Worker,Instagram,Less than an Hour,3,Tablet,iOS,1,Yes,
+893,40,Other,Salaried Worker,TikTok,Between 1 and 2 hours,3,Smartphone,Android,1,Yes,
+894,40,Other,Salaried Worker,TikTok,Between 3 and 4 hours,4,Smartphone,Android,2,Yes,
+895,40,Other,Salaried Worker,TikTok,Between 4 and 5 hours,4,Smartphone,iOS,2,Yes,
+896,40,Other,Salaried Worker,TikTok,Between 4 and 5 hours,4,Smartphone,Android,2,Yes,
+897,41,Female,Salaried Worker,Facebook,Between 1 and 2 hours,5,Tablet,Android,3,Yes,
+898,41,Female,Salaried Worker,Facebook,Less than an Hour,2,Computer,iOS,0,Yes,
+899,41,Female,Salaried Worker,Instagram,Between 1 and 2 hours,5,Smartphone,MacOS,3,Yes,
+900,41,Female,Salaried Worker,Instagram,Between 2 and 3 hours,7,Smartphone,iOS,5,Yes,
+901,41,Female,Salaried Worker,TikTok,Between 1 and 2 hours,8,Tablet,Android,6,Yes,
+902,41,Female,Student,Instagram,Between 4 and 5 hours,3,Computer,Windows,1,Yes,
+903,41,Female,Student,Instagram,Less than an Hour,3,Tablet,Android,1,Yes,
+904,41,Male,Salaried Worker,Facebook,Between 3 and 4 hours,2,Smartphone,MacOS,0,Yes,
+905,41,Male,Salaried Worker,Facebook,Between 4 and 5 hours,2,Smartphone,Android,0,Yes,
+906,41,Male,Salaried Worker,Facebook,Between 4 and 5 hours,4,Tablet,Android,2,Yes,
+907,41,Male,Salaried Worker,Facebook,Less than an Hour,7,Smartphone,MacOS,5,Yes,
+908,41,Male,Salaried Worker,Instagram,Between 3 and 4 hours,4,Tablet,Windows,2,Yes,
+909,41,Male,Salaried Worker,Instagram,Less than an Hour,2,Smartphone,Android,0,Yes,
+910,41,Male,Salaried Worker,Instagram,Less than an Hour,7,Smartphone,iOS,5,Yes,
+911,41,Male,Salaried Worker,TikTok,Between 3 and 4 hours,4,Smartphone,Android,2,Yes,
+912,41,Male,Student,Instagram,Between 1 and 2 hours,9,Computer,Windows,7,Yes,
+913,41,Male,Student,Instagram,Between 4 and 5 hours,4,Smartphone,Android,2,Yes,
+914,41,Male,Student,TikTok,Between 1 and 2 hours,3,Computer,Android,1,Yes,
+915,41,Other,Salaried Worker,Facebook,Between 3 and 4 hours,4,Smartphone,iOS,2,Yes,
+916,41,Other,Salaried Worker,Instagram,Between 2 and 3 hours,5,Tablet,iOS,3,Yes,
+917,41,Other,Salaried Worker,TikTok,Between 2 and 3 hours,4,Tablet,Android,2,Yes,
+918,41,Other,Salaried Worker,TikTok,Between 3 and 4 hours,7,Smartphone,iOS,5,Yes,
+919,41,Other,Salaried Worker,YouTube,Between 1 and 2 hours,7,Tablet,Android,5,Yes,
+920,41,Other,Salaried Worker,YouTube,Between 2 and 3 hours,4,Tablet,Android,2,Yes,
+921,41,Other,Salaried Worker,YouTube,Between 3 and 4 hours,4,Tablet,iOS,2,Yes,
+922,42,Female,Salaried Worker,Facebook,Less than an Hour,7,Smartphone,Android,5,Yes,
+923,42,Female,Salaried Worker,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,8,,,2,Yes,Married
+924,42,Female,Salaried Worker,Instagram,Between 1 and 2 hours,7,Smartphone,iOS,5,Yes,
+925,42,Female,Salaried Worker,Instagram,Between 3 and 4 hours,7,Smartphone,iOS,5,Yes,
+926,42,Female,Salaried Worker,Instagram,Less than an Hour,1,Tablet,Android,0,Yes,
+927,42,Female,Salaried Worker,TikTok,Between 2 and 3 hours,5,Smartphone,iOS,3,Yes,
+928,42,Female,Salaried Worker,TikTok,Between 2 and 3 hours,7,Smartphone,iOS,5,Yes,
+929,42,Female,Salaried Worker,TikTok,Between 3 and 4 hours,4,Smartphone,MacOS,2,Yes,
+930,42,Female,Salaried Worker,TikTok,Less than an Hour,5,Tablet,iOS,3,Yes,
+931,42,Female,Salaried Worker,YouTube,Between 2 and 3 hours,3,Computer,Windows,1,Yes,
+932,42,Female,Salaried Worker,YouTube,Between 3 and 4 hours,5,Smartphone,MacOS,3,Yes,
+933,42,Female,Student,Facebook,Between 3 and 4 hours,4,Smartphone,Android,2,Yes,
+934,42,Male,Salaried Worker,Facebook,Between 3 and 4 hours,1,Smartphone,Android,0,Yes,
+935,42,Male,Salaried Worker,Instagram,Between 1 and 2 hours,6,Computer,Android,4,Yes,
+936,42,Male,Salaried Worker,Instagram,Between 2 and 3 hours,5,Smartphone,Android,3,Yes,
+937,42,Male,Salaried Worker,TikTok,Between 4 and 5 hours,9,Tablet,iOS,7,Yes,
+938,42,Male,Salaried Worker,YouTube,Between 1 and 2 hours,2,Smartphone,Android,0,Yes,
+939,42,Male,Salaried Worker,YouTube,Between 4 and 5 hours,6,Tablet,Android,4,Yes,
+940,42,Male,Salaried Worker,YouTube,Between 4 and 5 hours,7,Smartphone,Android,5,Yes,
+941,42,Male,Student,TikTok,Between 1 and 2 hours,4,Tablet,Android,2,Yes,
+942,42,Male,Student,YouTube,Between 1 and 2 hours,4,Computer,iOS,2,Yes,
+943,42,Other,Salaried Worker,TikTok,Between 2 and 3 hours,7,Computer,MacOS,5,Yes,
+944,42,Other,Salaried Worker,YouTube,Between 1 and 2 hours,4,Smartphone,iOS,2,Yes,
+945,42,Other,Salaried Worker,YouTube,Between 3 and 4 hours,4,Computer,iOS,2,Yes,
+946,42,Other,Salaried Worker,YouTube,Between 4 and 5 hours,8,Computer,Android,6,Yes,
+947,43,Female,Salaried Worker,Facebook,Between 1 and 2 hours,1,Smartphone,Android,0,Yes,
+948,43,Female,Salaried Worker,Facebook,Between 3 and 4 hours,2,Tablet,iOS,0,Yes,
+949,43,Female,Salaried Worker,Instagram,Between 3 and 4 hours,7,Smartphone,Android,5,Yes,
+950,43,Female,Salaried Worker,TikTok,Less than an Hour,2,Smartphone,Android,0,Yes,
+951,43,Female,Salaried Worker,TikTok,Less than an Hour,7,Smartphone,Android,5,Yes,
+952,43,Female,Salaried Worker,YouTube,Between 1 and 2 hours,7,Computer,iOS,5,Yes,
+953,43,Female,Salaried Worker,YouTube,Between 4 and 5 hours,4,Tablet,iOS,2,Yes,
+954,43,Female,Student,Facebook,Between 4 and 5 hours,7,Smartphone,Android,5,Yes,
+955,43,Female,Student,Instagram,Between 2 and 3 hours,4,Smartphone,iOS,2,Yes,
+956,43,Female,Student,Instagram,Between 4 and 5 hours,4,Smartphone,Android,2,Yes,
+957,43,Female,Student,YouTube,Less than an Hour,2,Computer,Android,0,Yes,
+958,43,Female,Student,YouTube,Less than an Hour,6,Tablet,Android,4,Yes,
+959,43,Male,Salaried Worker,Facebook,Between 3 and 4 hours,2,Tablet,Android,0,Yes,
+960,43,Male,Salaried Worker,Facebook,Between 4 and 5 hours,7,Smartphone,iOS,5,Yes,
+961,43,Male,Salaried Worker,"Facebook, YouTube",Less than an Hour,8,,,2,Yes,Married
+962,43,Male,Salaried Worker,Instagram,Less than an Hour,1,Smartphone,iOS,0,Yes,
+963,43,Male,Salaried Worker,Instagram,Less than an Hour,7,Smartphone,MacOS,5,Yes,
+964,43,Male,Salaried Worker,TikTok,Between 1 and 2 hours,3,Smartphone,Android,1,Yes,
+965,43,Male,Salaried Worker,TikTok,Between 1 and 2 hours,7,Smartphone,Android,5,Yes,
+966,43,Male,Salaried Worker,TikTok,Between 3 and 4 hours,2,Tablet,Android,0,Yes,
+967,43,Male,Salaried Worker,TikTok,Between 3 and 4 hours,4,Computer,Android,2,Yes,
+968,43,Male,Salaried Worker,TikTok,Between 3 and 4 hours,8,Smartphone,Android,6,Yes,
+969,43,Male,Salaried Worker,TikTok,Between 4 and 5 hours,4,Tablet,Android,2,Yes,
+970,43,Male,Salaried Worker,TikTok,Less than an Hour,2,Smartphone,Android,0,Yes,
+971,43,Male,Salaried Worker,TikTok,Less than an Hour,3,Tablet,MacOS,1,Yes,
+972,43,Male,Salaried Worker,YouTube,Between 2 and 3 hours,5,Smartphone,iOS,3,Yes,
+973,43,Male,Student,Facebook,Between 3 and 4 hours,3,Smartphone,Android,1,Yes,
+974,43,Male,Student,TikTok,Between 4 and 5 hours,7,Tablet,Android,5,Yes,
+975,43,Male,Student,TikTok,Less than an Hour,4,Computer,Android,2,Yes,
+976,43,Male,Student,TikTok,Less than an Hour,7,Tablet,Android,5,Yes,
+977,43,Other,Salaried Worker,TikTok,Between 4 and 5 hours,5,Smartphone,Windows,3,Yes,
+978,43,Other,Student,Facebook,Between 1 and 2 hours,9,Computer,Android,7,Yes,
+979,43,Other,Student,Facebook,Between 4 and 5 hours,2,Smartphone,Windows,0,Yes,
+980,43,Other,Student,Facebook,Less than an Hour,7,Tablet,Android,5,Yes,
+981,44,Female,Salaried Worker,Facebook,Between 1 and 2 hours,5,Tablet,Android,3,Yes,
+982,44,Female,Salaried Worker,Facebook,Between 2 and 3 hours,7,Computer,iOS,5,Yes,
+983,44,Female,Salaried Worker,TikTok,Between 3 and 4 hours,5,Smartphone,Android,3,Yes,
+984,44,Female,Salaried Worker,YouTube,Between 4 and 5 hours,4,Computer,iOS,2,Yes,
+985,44,Female,Student,Facebook,Less than an Hour,4,Smartphone,iOS,2,Yes,
+986,44,Female,Student,Instagram,Between 2 and 3 hours,2,Smartphone,MacOS,0,Yes,
+987,44,Male,Salaried Worker,Facebook,Less than an Hour,6,Tablet,MacOS,4,Yes,
+988,44,Male,Salaried Worker,Facebook,Less than an Hour,8,,,2,Yes,Married
+989,44,Male,Salaried Worker,Facebook,Less than an Hour,8,,,2,Yes,Married
+990,44,Male,Salaried Worker,TikTok,Between 1 and 2 hours,4,Smartphone,Android,2,Yes,
+991,44,Male,Salaried Worker,TikTok,Between 1 and 2 hours,6,Smartphone,Android,4,Yes,
+992,44,Male,Salaried Worker,TikTok,Between 2 and 3 hours,4,Computer,iOS,2,Yes,
+993,44,Male,Salaried Worker,TikTok,Between 4 and 5 hours,7,Smartphone,Android,5,Yes,
+994,44,Male,Salaried Worker,TikTok,Less than an Hour,5,Smartphone,MacOS,3,Yes,
+995,44,Male,Salaried Worker,YouTube,Between 1 and 2 hours,2,Smartphone,Android,0,Yes,
+996,44,Male,Student,Facebook,Between 1 and 2 hours,2,Smartphone,Android,0,Yes,
+997,44,Male,Student,Facebook,Between 2 and 3 hours,5,Computer,Windows,3,Yes,
+998,44,Male,Student,Instagram,Between 4 and 5 hours,7,Tablet,iOS,5,Yes,
+999,45,Female,Salaried Worker,Facebook,Between 1 and 2 hours,5,Tablet,iOS,3,Yes,
+1000,45,Female,Salaried Worker,Instagram,Between 1 and 2 hours,4,Smartphone,Android,2,Yes,
+1001,45,Female,Salaried Worker,Instagram,Between 3 and 4 hours,5,Computer,MacOS,3,Yes,
+1002,45,Female,Salaried Worker,Instagram,Between 3 and 4 hours,7,Computer,MacOS,5,Yes,
+1003,45,Female,Salaried Worker,Instagram,Between 4 and 5 hours,5,Smartphone,Android,3,Yes,
+1004,45,Female,Salaried Worker,Instagram,Between 4 and 5 hours,9,Tablet,Android,7,Yes,
+1005,45,Female,Salaried Worker,TikTok,Between 3 and 4 hours,4,Smartphone,Android,2,Yes,
+1006,45,Female,Salaried Worker,TikTok,Between 4 and 5 hours,4,Smartphone,Android,2,Yes,
+1007,45,Female,Salaried Worker,TikTok,Between 4 and 5 hours,5,Tablet,Windows,3,Yes,
+1008,45,Female,Salaried Worker,TikTok,Between 4 and 5 hours,7,Smartphone,iOS,5,Yes,
+1009,45,Female,Salaried Worker,TikTok,Less than an Hour,5,Smartphone,Windows,3,Yes,
+1010,45,Female,Salaried Worker,YouTube,Between 4 and 5 hours,5,Smartphone,MacOS,3,Yes,
+1011,45,Female,Salaried Worker,YouTube,Between 4 and 5 hours,7,Smartphone,Android,5,Yes,
+1012,45,Female,Salaried Worker,YouTube,Between 4 and 5 hours,9,Smartphone,Android,7,Yes,
+1013,45,Female,Student,Instagram,Between 4 and 5 hours,8,Tablet,Android,6,Yes,
+1014,45,Female,Student,TikTok,Between 2 and 3 hours,5,Computer,Android,3,Yes,
+1015,45,Male,Salaried Worker,Facebook,Between 2 and 3 hours,2,Tablet,Windows,0,Yes,
+1016,45,Male,Salaried Worker,Facebook,Between 4 and 5 hours,2,Tablet,MacOS,0,Yes,
+1017,45,Male,Salaried Worker,"Facebook, YouTube",Between 2 and 3 hours,6,,,6,Yes,Married
+1018,45,Male,Salaried Worker,Instagram,Between 1 and 2 hours,2,Smartphone,Android,0,Yes,
+1019,45,Male,Salaried Worker,Instagram,Between 3 and 4 hours,4,Smartphone,MacOS,2,Yes,
+1020,45,Male,Salaried Worker,TikTok,Between 1 and 2 hours,7,Smartphone,Android,5,Yes,
+1021,45,Male,Salaried Worker,TikTok,Between 2 and 3 hours,4,Smartphone,Windows,2,Yes,
+1022,45,Male,Salaried Worker,TikTok,Between 3 and 4 hours,9,Tablet,Android,7,Yes,
+1023,45,Male,Salaried Worker,YouTube,Less than an Hour,5,Tablet,MacOS,3,Yes,
+1024,45,Male,Student,Facebook,Between 2 and 3 hours,9,Smartphone,Android,7,Yes,
+1025,45,Male,Student,Facebook,Between 3 and 4 hours,5,Smartphone,Android,3,Yes,
+1026,45,Male,Student,Facebook,Less than an Hour,6,Tablet,iOS,4,Yes,
+1027,45,Male,Student,TikTok,Less than an Hour,4,Tablet,Android,2,Yes,
+1028,45,Other,Salaried Worker,Facebook,Less than an Hour,4,Smartphone,Android,2,Yes,
+1029,45,Other,Salaried Worker,YouTube,Between 2 and 3 hours,2,Smartphone,Android,0,Yes,
+1030,46,Female,Salaried Worker,Facebook,Between 2 and 3 hours,4,Computer,Windows,2,Yes,
+1031,46,Female,Salaried Worker,Instagram,Between 1 and 2 hours,4,Computer,Android,2,Yes,
+1032,46,Female,Salaried Worker,Instagram,Between 3 and 4 hours,5,Computer,Android,3,Yes,
+1033,46,Female,Salaried Worker,TikTok,Less than an Hour,7,Tablet,Android,5,Yes,
+1034,46,Female,Student,YouTube,Between 4 and 5 hours,4,Computer,Android,2,Yes,
+1035,46,Male,Salaried Worker,Facebook,Between 1 and 2 hours,5,Tablet,Android,3,Yes,
+1036,46,Male,Salaried Worker,Facebook,Between 3 and 4 hours,4,Smartphone,Android,2,Yes,
+1037,46,Male,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Snapchat",Less than an Hour,6,,,2,Yes,Divorced
+1038,46,Male,Salaried Worker,"Facebook, YouTube",Less than an Hour,8,,,2,Yes,Married
+1039,46,Male,Salaried Worker,TikTok,Between 2 and 3 hours,8,Smartphone,Windows,6,Yes,
+1040,46,Male,Salaried Worker,TikTok,Between 3 and 4 hours,6,Smartphone,Android,4,Yes,
+1041,46,Male,Salaried Worker,YouTube,Between 2 and 3 hours,3,Tablet,MacOS,1,Yes,
+1042,46,Male,Salaried Worker,YouTube,Between 3 and 4 hours,5,Smartphone,Android,3,Yes,
+1043,46,Male,Salaried Worker,YouTube,Between 4 and 5 hours,5,Tablet,iOS,3,Yes,
+1044,46,Male,Student,Facebook,Between 4 and 5 hours,7,Smartphone,iOS,5,Yes,
+1045,46,Male,Student,Instagram,Between 2 and 3 hours,7,Tablet,Android,5,Yes,
+1046,46,Male,Student,TikTok,Between 2 and 3 hours,4,Smartphone,Android,2,Yes,
+1047,46,Other,Salaried Worker,Instagram,Between 2 and 3 hours,5,Smartphone,MacOS,3,Yes,
+1048,46,Other,Salaried Worker,TikTok,Between 2 and 3 hours,4,Smartphone,Windows,2,Yes,
+1049,46,Other,Salaried Worker,TikTok,Less than an Hour,7,Tablet,Android,5,Yes,
+1050,46,Other,Salaried Worker,YouTube,Between 4 and 5 hours,4,Smartphone,Android,2,Yes,
+1051,47,Female,Salaried Worker,Facebook,Between 1 and 2 hours,4,,,6,Yes,Married
+1052,47,Female,Salaried Worker,"Facebook, Instagram, YouTube, Pinterest",Between 2 and 3 hours,4,,,6,Yes,Married
+1053,47,Female,Salaried Worker,"Facebook, Twitter",Less than an Hour,6,,,4,Yes,Married
+1054,47,Female,Salaried Worker,"Facebook, Twitter, Instagram, YouTube",Between 1 and 2 hours,6,,,6,Yes,Married
+1055,47,Female,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 3 and 4 hours,8,,,4,Yes,Married
+1056,47,Female,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 4 and 5 hours,4,,,4,Yes,Single
+1057,47,Female,Salaried Worker,"Facebook, YouTube, Pinterest",Between 2 and 3 hours,8,,,6,Yes,Married
+1058,47,Female,Salaried Worker,Instagram,Between 2 and 3 hours,3,Tablet,Android,1,Yes,
+1059,47,Female,Salaried Worker,Instagram,Between 2 and 3 hours,7,Smartphone,Android,5,Yes,
+1060,47,Female,Salaried Worker,Instagram,Between 4 and 5 hours,5,Tablet,Android,3,Yes,
+1061,47,Female,Salaried Worker,TikTok,Between 1 and 2 hours,1,Tablet,Windows,0,Yes,
+1062,47,Female,Salaried Worker,TikTok,Less than an Hour,3,Smartphone,Android,1,Yes,
+1063,47,Female,Salaried Worker,"Twitter, Instagram, YouTube",Between 2 and 3 hours,6,,,4,Yes,Married
+1064,47,Female,Student,Facebook,Between 1 and 2 hours,2,Smartphone,iOS,0,Yes,
+1065,47,Male,Salaried Worker,Facebook,Between 2 and 3 hours,7,Smartphone,Android,5,Yes,
+1066,47,Male,Salaried Worker,Facebook,Less than an Hour,4,Computer,Android,2,Yes,
+1067,47,Male,Salaried Worker,"Facebook, Instagram, Snapchat",Between 1 and 2 hours,6,,,6,Yes,Married
+1068,47,Male,Salaried Worker,"Facebook, YouTube",Between 1 and 2 hours,4,,,4,Yes,Married
+1069,47,Male,Salaried Worker,"Facebook, YouTube",Between 2 and 3 hours,6,,,8,Yes,Married
+1070,47,Male,Salaried Worker,"Facebook, YouTube, TikTok",Less than an Hour,8,,,2,Yes,Married
+1071,47,Male,Salaried Worker,Instagram,Between 1 and 2 hours,4,Smartphone,iOS,2,Yes,
+1072,47,Male,Salaried Worker,Instagram,Between 2 and 3 hours,4,Tablet,Android,2,Yes,
+1073,47,Male,Salaried Worker,Instagram,Between 4 and 5 hours,7,Smartphone,iOS,5,Yes,
+1074,47,Male,Salaried Worker,Instagram,Less than an Hour,7,Smartphone,Android,5,Yes,
+1075,47,Male,Salaried Worker,"Instagram, YouTube",Between 1 and 2 hours,4,,,4,Yes,Married
+1076,47,Male,Salaried Worker,Twitter,Less than an Hour,6,,,4,Yes,Married
+1077,47,Male,Salaried Worker,"Twitter, Instagram, YouTube, Reddit, TikTok",Between 2 and 3 hours,4,,,6,Yes,Married
+1078,47,Male,Salaried Worker,"Twitter, Instagram, YouTube, Reddit, TikTok",Between 2 and 3 hours,8,,,6,Yes,Married
+1079,47,Male,Salaried Worker,YouTube,Between 1 and 2 hours,7,Computer,iOS,5,Yes,
+1080,47,Male,Salaried Worker,YouTube,Between 4 and 5 hours,5,Tablet,iOS,3,Yes,
+1081,47,Male,Student,Facebook,Between 4 and 5 hours,2,Smartphone,Android,0,Yes,
+1082,47,Male,Student,Instagram,Between 2 and 3 hours,2,Smartphone,Android,0,Yes,
+1083,47,Male,Student,YouTube,Between 3 and 4 hours,1,Tablet,Android,0,Yes,
+1084,47,Male,Student,YouTube,Between 3 and 4 hours,4,Smartphone,iOS,2,Yes,
+1085,47,Other,Salaried Worker,Instagram,Between 1 and 2 hours,4,Smartphone,iOS,2,Yes,
+1086,47,Other,Salaried Worker,TikTok,Between 1 and 2 hours,5,Smartphone,Android,3,Yes,
+1087,47,Other,Salaried Worker,YouTube,Between 4 and 5 hours,2,Smartphone,Windows,0,Yes,
+1088,48,Female,Retired,"Facebook, Instagram, YouTube, Pinterest, TikTok",More than 5 hours,4,,,10,Yes,Married
+1089,48,Female,Salaried Worker,Facebook,Between 2 and 3 hours,7,Computer,Android,5,Yes,
+1090,48,Female,Salaried Worker,Facebook,Less than an Hour,4,Smartphone,iOS,2,Yes,
+1091,48,Female,Salaried Worker,"Facebook, Instagram",Less than an Hour,8,,,2,Yes,Married
+1092,48,Female,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 2 and 3 hours,8,,,2,Yes,Married
+1093,48,Female,Salaried Worker,"Facebook, YouTube",Between 1 and 2 hours,8,,,2,Yes,Married
+1094,48,Female,Salaried Worker,Instagram,Between 1 and 2 hours,9,Tablet,Android,7,Yes,
+1095,48,Female,Salaried Worker,YouTube,Between 4 and 5 hours,4,Tablet,Android,2,Yes,
+1096,48,Female,Salaried Worker,YouTube,Less than an Hour,9,Smartphone,Android,7,Yes,
+1097,48,Male,Salaried Worker,"Facebook, Instagram, YouTube",Between 2 and 3 hours,6,,,8,Yes,Married
+1098,48,Male,Salaried Worker,"Facebook, Instagram, YouTube",Between 3 and 4 hours,6,,,6,Yes,Married
+1099,48,Male,Salaried Worker,"Facebook, Twitter, Instagram, YouTube",Between 1 and 2 hours,4,,,4,Yes,Married
+1100,48,Male,Salaried Worker,"Facebook, Twitter, Instagram, YouTube",Less than an Hour,2,,,2,Yes,Divorced
+1101,48,Male,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Less than an Hour,8,,,2,Yes,Married
+1102,48,Male,Salaried Worker,"Facebook, YouTube",Less than an Hour,8,,,2,Yes,Married
+1103,48,Male,Salaried Worker,"Facebook, YouTube, Pinterest",Less than an Hour,6,,,2,Yes,Married
+1104,48,Male,Salaried Worker,Instagram,Between 2 and 3 hours,7,Tablet,Windows,5,Yes,
+1105,48,Male,Salaried Worker,Instagram,Between 2 and 3 hours,7,Smartphone,iOS,5,Yes,
+1106,48,Male,Salaried Worker,TikTok,Between 1 and 2 hours,7,Smartphone,iOS,5,Yes,
+1107,48,Male,Salaried Worker,"Twitter, YouTube",Between 1 and 2 hours,8,,,2,Yes,Married
+1108,48,Male,Salaried Worker,"Twitter, YouTube",Between 3 and 4 hours,4,,,6,Yes,Married
+1109,48,Male,Salaried Worker,YouTube,Between 2 and 3 hours,4,Smartphone,Windows,2,Yes,
+1110,48,Male,Salaried Worker,YouTube,Between 3 and 4 hours,7,Computer,iOS,5,Yes,
+1111,48,Male,Student,Facebook,Between 1 and 2 hours,9,Tablet,Android,7,Yes,
+1112,48,Male,Student,YouTube,Less than an Hour,6,Smartphone,iOS,4,Yes,
+1113,48,Other,Salaried Worker,Instagram,Between 3 and 4 hours,8,Smartphone,Windows,6,Yes,
+1114,48,Other,Salaried Worker,TikTok,Between 4 and 5 hours,4,Smartphone,Android,2,Yes,
+1115,48,Other,Salaried Worker,YouTube,Between 2 and 3 hours,7,Computer,MacOS,5,Yes,
+1116,48,Other,Student,YouTube,Between 3 and 4 hours,4,Smartphone,Android,2,Yes,
+1117,49,Female,Salaried Worker,Instagram,Between 1 and 2 hours,4,Tablet,Android,2,Yes,
+1118,49,Female,Salaried Worker,Instagram,Between 4 and 5 hours,3,Tablet,MacOS,1,Yes,
+1119,49,Female,Salaried Worker,Instagram,Less than an Hour,4,Smartphone,Android,2,Yes,
+1120,49,Female,Salaried Worker,Instagram,Less than an Hour,6,Tablet,Windows,4,Yes,
+1121,49,Female,Student,Instagram,Less than an Hour,4,Tablet,MacOS,2,Yes,
+1122,49,Male,Retired,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 4 and 5 hours,2,,,6,Yes,Married
+1123,49,Male,Salaried Worker,Facebook,Between 2 and 3 hours,6,Smartphone,MacOS,4,Yes,
+1124,49,Male,Salaried Worker,Facebook,Between 2 and 3 hours,7,Smartphone,Windows,5,Yes,
+1125,49,Male,Salaried Worker,Facebook,Between 4 and 5 hours,2,Tablet,Android,0,Yes,
+1126,49,Male,Salaried Worker,Facebook,Between 4 and 5 hours,7,Smartphone,iOS,5,Yes,
+1127,49,Male,Salaried Worker,"Facebook, YouTube",Between 4 and 5 hours,6,,,4,Yes,Married
+1128,49,Male,Salaried Worker,"Facebook, YouTube, Pinterest",Less than an Hour,4,,,6,Yes,Married
+1129,49,Male,Salaried Worker,Instagram,Between 1 and 2 hours,4,Tablet,Android,2,Yes,
+1130,49,Male,Salaried Worker,Instagram,Between 3 and 4 hours,2,Tablet,Android,0,Yes,
+1131,49,Male,Salaried Worker,Instagram,Between 3 and 4 hours,7,Smartphone,MacOS,5,Yes,
+1132,49,Male,Salaried Worker,TikTok,Between 1 and 2 hours,3,Smartphone,Android,1,Yes,
+1133,49,Male,Salaried Worker,TikTok,Between 1 and 2 hours,5,Tablet,Android,3,Yes,
+1134,49,Male,Salaried Worker,TikTok,Between 2 and 3 hours,4,Smartphone,Android,2,Yes,
+1135,49,Male,Salaried Worker,TikTok,Between 2 and 3 hours,7,Smartphone,iOS,5,Yes,
+1136,49,Male,Salaried Worker,TikTok,Between 3 and 4 hours,7,Smartphone,iOS,5,Yes,
+1137,49,Male,Salaried Worker,TikTok,Less than an Hour,4,Smartphone,Android,2,Yes,
+1138,49,Male,Salaried Worker,YouTube,Less than an Hour,2,Smartphone,Android,0,Yes,
+1139,49,Male,Student,TikTok,Between 3 and 4 hours,8,Tablet,Android,6,Yes,
+1140,49,Male,Student,YouTube,Between 4 and 5 hours,9,Smartphone,Android,7,Yes,
+1141,49,Other,Salaried Worker,Facebook,Between 1 and 2 hours,2,Computer,iOS,0,Yes,
+1142,49,Other,Salaried Worker,Facebook,Between 3 and 4 hours,4,Smartphone,iOS,2,Yes,
+1143,49,Other,Student,Facebook,Between 1 and 2 hours,7,Computer,iOS,5,Yes,
+1144,49,Other,Student,Instagram,Between 1 and 2 hours,5,Tablet,Windows,3,Yes,
+1145,50,Female,Salaried Worker,Facebook,Between 2 and 3 hours,2,Tablet,Windows,0,Yes,
+1146,50,Female,Salaried Worker,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,8,,,2,Yes,Single
+1147,50,Female,Salaried Worker,TikTok,Less than an Hour,1,Tablet,Android,0,Yes,
+1148,50,Female,Student,TikTok,Between 4 and 5 hours,4,Smartphone,Windows,2,Yes,
+1149,50,Female,Student,YouTube,Between 2 and 3 hours,5,Smartphone,Android,3,Yes,
+1150,50,Male,Salaried Worker,Facebook,Between 1 and 2 hours,5,Tablet,Android,3,Yes,
+1151,50,Male,Salaried Worker,Facebook,Between 1 and 2 hours,6,,,6,Yes,Single
+1152,50,Male,Salaried Worker,Facebook,Between 2 and 3 hours,5,Smartphone,iOS,3,Yes,
+1153,50,Male,Salaried Worker,Facebook,Between 2 and 3 hours,7,Tablet,iOS,5,Yes,
+1154,50,Male,Salaried Worker,"Facebook, Twitter, Instagram, YouTube",Between 3 and 4 hours,2,,,8,Yes,Married
+1155,50,Male,Salaried Worker,"Facebook, Twitter, YouTube",Between 1 and 2 hours,4,,,4,Yes,Married
+1156,50,Male,Salaried Worker,Instagram,Between 2 and 3 hours,3,Smartphone,MacOS,1,Yes,
+1157,50,Male,Salaried Worker,Instagram,Between 2 and 3 hours,5,Smartphone,Android,3,Yes,
+1158,50,Male,Salaried Worker,Instagram,Less than an Hour,2,Tablet,Windows,0,Yes,
+1159,50,Male,Salaried Worker,Instagram,Less than an Hour,7,Tablet,Windows,5,Yes,
+1160,50,Male,Salaried Worker,"Instagram, YouTube",Between 1 and 2 hours,6,,,2,No,Divorced
+1161,50,Male,Salaried Worker,TikTok,Between 2 and 3 hours,4,Smartphone,Android,2,Yes,
+1162,50,Male,Salaried Worker,TikTok,Between 4 and 5 hours,8,Tablet,iOS,6,Yes,
+1163,50,Male,Salaried Worker,TikTok,Less than an Hour,5,Smartphone,Windows,3,Yes,
+1164,50,Male,Salaried Worker,YouTube,Between 1 and 2 hours,4,Smartphone,Android,2,Yes,
+1165,50,Male,Salaried Worker,YouTube,Between 1 and 2 hours,7,Smartphone,Windows,5,Yes,
+1166,50,Male,Salaried Worker,YouTube,Between 2 and 3 hours,5,Smartphone,Windows,3,Yes,
+1167,50,Male,Salaried Worker,YouTube,Between 3 and 4 hours,2,Smartphone,iOS,0,Yes,
+1168,50,Male,Salaried Worker,YouTube,Between 3 and 4 hours,5,Smartphone,Android,3,Yes,
+1169,50,Male,Salaried Worker,YouTube,Between 4 and 5 hours,3,Tablet,Android,1,Yes,
+1170,50,Male,Student,"Facebook, Instagram",Between 1 and 2 hours,8,,,2,Yes,Married
+1171,50,Male,Student,Instagram,Between 3 and 4 hours,4,Smartphone,Android,2,Yes,
+1172,50,Male,Student,Instagram,Less than an Hour,4,Computer,Android,2,Yes,
+1173,50,Male,Student,YouTube,Between 2 and 3 hours,4,Smartphone,Android,2,Yes,
+1174,50,Other,Salaried Worker,Facebook,Less than an Hour,2,Smartphone,MacOS,0,Yes,
+1175,50,Other,Salaried Worker,Instagram,Less than an Hour,8,Tablet,Android,6,Yes,
+1176,50,Other,Salaried Worker,TikTok,Between 2 and 3 hours,4,Tablet,iOS,2,Yes,
+1177,50,Other,Salaried Worker,TikTok,Between 4 and 5 hours,4,Smartphone,Android,2,Yes,
+1178,50,Other,Salaried Worker,YouTube,Between 2 and 3 hours,5,Smartphone,Android,3,Yes,
+1179,50,Other,Salaried Worker,YouTube,Between 3 and 4 hours,5,Computer,Android,3,Yes,
+1180,50,Other,Salaried Worker,YouTube,Less than an Hour,7,Tablet,iOS,5,Yes,
+1181,51,Female,Salaried Worker,Facebook,Between 1 and 2 hours,8,Smartphone,MacOS,6,Yes,
+1182,51,Female,Salaried Worker,Facebook,Between 4 and 5 hours,7,Smartphone,iOS,5,Yes,
+1183,51,Female,Salaried Worker,Instagram,Less than an Hour,9,Smartphone,Android,7,Yes,
+1184,51,Female,Salaried Worker,TikTok,Between 3 and 4 hours,2,Smartphone,Android,0,Yes,
+1185,51,Female,Salaried Worker,YouTube,Between 1 and 2 hours,7,Smartphone,iOS,5,Yes,
+1186,51,Female,Salaried Worker,YouTube,Between 3 and 4 hours,3,Smartphone,iOS,1,Yes,
+1187,51,Female,Student,Facebook,Between 3 and 4 hours,5,Tablet,iOS,3,Yes,
+1188,51,Male,Salaried Worker,Facebook,Between 2 and 3 hours,7,Computer,MacOS,5,Yes,
+1189,51,Male,Salaried Worker,"Facebook, Twitter, Instagram, YouTube",Between 1 and 2 hours,6,,,6,Yes,Married
+1190,51,Male,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 1 and 2 hours,4,,,4,Yes,Married
+1191,51,Male,Salaried Worker,Instagram,Between 4 and 5 hours,7,Smartphone,iOS,5,Yes,
+1192,51,Male,Salaried Worker,Instagram,Less than an Hour,4,Smartphone,iOS,2,Yes,
+1193,51,Male,Salaried Worker,TikTok,Between 1 and 2 hours,5,Tablet,Android,3,Yes,
+1194,51,Male,Salaried Worker,TikTok,Between 2 and 3 hours,4,Smartphone,iOS,2,Yes,
+1195,51,Male,Salaried Worker,TikTok,Between 3 and 4 hours,1,Tablet,iOS,0,Yes,
+1196,51,Male,Salaried Worker,YouTube,Between 1 and 2 hours,7,Smartphone,Windows,5,Yes,
+1197,51,Male,Salaried Worker,YouTube,Between 4 and 5 hours,1,Tablet,Android,0,Yes,
+1198,51,Male,Salaried Worker,YouTube,Between 4 and 5 hours,1,Tablet,Android,0,Yes,
+1199,51,Male,Student,Facebook,Between 1 and 2 hours,4,Smartphone,iOS,2,Yes,
+1200,51,Other,Student,YouTube,Between 2 and 3 hours,2,Smartphone,Windows,0,Yes,
+1201,52,Female,Salaried Worker,Instagram,Between 2 and 3 hours,4,Smartphone,MacOS,2,Yes,
+1202,52,Female,Salaried Worker,Instagram,Between 3 and 4 hours,4,Smartphone,iOS,2,Yes,
+1203,52,Female,Salaried Worker,YouTube,Less than an Hour,7,Smartphone,Android,5,Yes,
+1204,52,Female,Student,TikTok,Between 1 and 2 hours,4,Tablet,MacOS,2,Yes,
+1205,52,Male,Salaried Worker,Facebook,Between 1 and 2 hours,1,Smartphone,Android,0,Yes,
+1206,52,Male,Salaried Worker,Facebook,Between 1 and 2 hours,7,Smartphone,Android,5,Yes,
+1207,52,Male,Salaried Worker,Facebook,Between 3 and 4 hours,4,Smartphone,iOS,2,Yes,
+1208,52,Male,Salaried Worker,"Facebook, YouTube",Between 1 and 2 hours,4,,,6,Yes,Married
+1209,52,Male,Salaried Worker,Instagram,Between 1 and 2 hours,1,Computer,iOS,0,Yes,
+1210,52,Male,Salaried Worker,Instagram,Between 1 and 2 hours,2,Tablet,Windows,0,Yes,
+1211,52,Male,Salaried Worker,Instagram,Between 1 and 2 hours,5,Computer,Android,3,Yes,
+1212,52,Male,Salaried Worker,Instagram,Between 2 and 3 hours,8,Tablet,iOS,6,Yes,
+1213,52,Male,Salaried Worker,Instagram,Between 4 and 5 hours,3,Tablet,MacOS,1,Yes,
+1214,52,Male,Salaried Worker,Instagram,Between 4 and 5 hours,8,Computer,Android,6,Yes,
+1215,52,Male,Salaried Worker,Instagram,Less than an Hour,4,Smartphone,iOS,2,Yes,
+1216,52,Male,Salaried Worker,TikTok,Between 2 and 3 hours,4,Smartphone,Windows,2,Yes,
+1217,52,Male,Salaried Worker,TikTok,Less than an Hour,5,Tablet,iOS,3,Yes,
+1218,52,Male,Salaried Worker,TikTok,Less than an Hour,6,Tablet,Windows,4,Yes,
+1219,52,Male,Salaried Worker,TikTok,Less than an Hour,7,Smartphone,iOS,5,Yes,
+1220,52,Male,Salaried Worker,YouTube,Between 3 and 4 hours,5,Smartphone,Android,3,Yes,
+1221,52,Male,Salaried Worker,YouTube,Between 4 and 5 hours,9,Smartphone,iOS,7,Yes,
+1222,52,Male,Student,Instagram,Between 3 and 4 hours,6,Smartphone,iOS,4,Yes,
+1223,52,Male,Student,Instagram,Less than an Hour,7,Computer,MacOS,5,Yes,
+1224,52,Male,Student,TikTok,Less than an Hour,4,Smartphone,Android,2,Yes,
+1225,52,Male,Student,YouTube,Between 2 and 3 hours,4,Smartphone,Android,2,Yes,
+1226,52,Other,Salaried Worker,TikTok,Between 3 and 4 hours,4,Tablet,MacOS,2,Yes,
+1227,52,Other,Salaried Worker,TikTok,Between 3 and 4 hours,5,Tablet,Android,3,Yes,
+1228,52,Other,Salaried Worker,TikTok,Between 3 and 4 hours,9,Tablet,Windows,7,Yes,
+1229,52,Other,Salaried Worker,YouTube,Between 4 and 5 hours,5,Smartphone,MacOS,3,Yes,
+1230,53,Female,Salaried Worker,Facebook,Between 2 and 3 hours,7,Tablet,Windows,5,Yes,
+1231,53,Female,Salaried Worker,Facebook,Between 4 and 5 hours,3,Smartphone,Android,1,Yes,
+1232,53,Female,Salaried Worker,Instagram,Between 2 and 3 hours,4,Computer,iOS,2,Yes,
+1233,53,Female,Student,Facebook,Between 2 and 3 hours,8,Tablet,Android,6,Yes,
+1234,53,Female,Student,Instagram,Between 1 and 2 hours,5,Tablet,Android,3,Yes,
+1235,53,Female,Student,YouTube,Between 2 and 3 hours,8,Smartphone,Android,6,Yes,
+1236,53,Male,Salaried Worker,Facebook,Between 1 and 2 hours,2,Tablet,Android,0,Yes,
+1237,53,Male,Salaried Worker,Facebook,Between 1 and 2 hours,3,Smartphone,Android,1,Yes,
+1238,53,Male,Salaried Worker,Facebook,Between 4 and 5 hours,4,Computer,Windows,2,Yes,
+1239,53,Male,Salaried Worker,"Facebook, YouTube",Less than an Hour,6,,,2,Yes,Married
+1240,53,Male,Salaried Worker,Instagram,Between 4 and 5 hours,5,Smartphone,Android,3,Yes,
+1241,53,Male,Salaried Worker,TikTok,Between 3 and 4 hours,4,Smartphone,Android,2,Yes,
+1242,53,Male,Salaried Worker,TikTok,Between 4 and 5 hours,7,Smartphone,iOS,5,Yes,
+1243,53,Male,Salaried Worker,YouTube,Between 2 and 3 hours,4,Computer,iOS,2,Yes,
+1244,53,Male,Student,Instagram,Between 1 and 2 hours,3,Smartphone,MacOS,1,Yes,
+1245,53,Male,Student,Instagram,Between 3 and 4 hours,6,Smartphone,Windows,4,Yes,
+1246,53,Male,Student,Instagram,Less than an Hour,3,Smartphone,MacOS,1,Yes,
+1247,53,Male,Student,Instagram,Less than an Hour,5,Computer,MacOS,3,Yes,
+1248,53,Male,Student,TikTok,Less than an Hour,4,Computer,iOS,2,Yes,
+1249,53,Other,Salaried Worker,Facebook,Between 3 and 4 hours,3,Smartphone,Windows,1,Yes,
+1250,53,Other,Salaried Worker,Instagram,Between 3 and 4 hours,4,Computer,Android,2,Yes,
+1251,53,Other,Student,Facebook,Between 1 and 2 hours,7,Tablet,Android,5,Yes,
+1252,53,Other,Student,Instagram,Between 3 and 4 hours,5,Computer,iOS,3,Yes,
+1253,53,Other,Student,YouTube,Between 1 and 2 hours,8,Smartphone,iOS,6,Yes,
+1254,54,Female,Salaried Worker,Facebook,Between 3 and 4 hours,5,Smartphone,MacOS,3,Yes,
+1255,54,Female,Salaried Worker,Instagram,Between 2 and 3 hours,7,Smartphone,MacOS,5,Yes,
+1256,54,Female,Salaried Worker,Instagram,Less than an Hour,7,Smartphone,Android,5,Yes,
+1257,54,Female,Salaried Worker,TikTok,Between 3 and 4 hours,2,Smartphone,Android,0,Yes,
+1258,54,Female,Salaried Worker,YouTube,Between 1 and 2 hours,2,Smartphone,iOS,0,Yes,
+1259,54,Male,Salaried Worker,Facebook,Between 1 and 2 hours,4,Smartphone,MacOS,2,Yes,
+1260,54,Male,Salaried Worker,Facebook,Between 1 and 2 hours,7,Tablet,Android,5,Yes,
+1261,54,Male,Salaried Worker,Facebook,Between 3 and 4 hours,4,Smartphone,Android,2,Yes,
+1262,54,Male,Salaried Worker,Facebook,Between 3 and 4 hours,5,Smartphone,Android,3,Yes,
+1263,54,Male,Salaried Worker,Instagram,Between 1 and 2 hours,1,Tablet,Android,0,Yes,
+1264,54,Male,Salaried Worker,Instagram,Between 3 and 4 hours,4,Computer,iOS,2,Yes,
+1265,54,Male,Salaried Worker,TikTok,Between 1 and 2 hours,1,Smartphone,Windows,0,Yes,
+1266,54,Male,Salaried Worker,TikTok,Between 2 and 3 hours,2,Smartphone,MacOS,0,Yes,
+1267,54,Male,Salaried Worker,TikTok,Between 3 and 4 hours,1,Smartphone,iOS,0,Yes,
+1268,54,Male,Salaried Worker,TikTok,Between 3 and 4 hours,7,Tablet,Android,5,Yes,
+1269,54,Male,Salaried Worker,YouTube,Less than an Hour,2,Smartphone,Android,0,Yes,
+1270,54,Male,Student,Facebook,Between 2 and 3 hours,6,Computer,Android,4,Yes,
+1271,54,Male,Student,Instagram,Between 1 and 2 hours,2,Smartphone,Android,0,Yes,
+1272,54,Male,Student,Instagram,Between 4 and 5 hours,3,Tablet,Android,1,Yes,
+1273,54,Male,Student,TikTok,Between 4 and 5 hours,2,Smartphone,Windows,0,Yes,
+1274,54,Male,Student,YouTube,Between 3 and 4 hours,5,Smartphone,iOS,3,Yes,
+1275,54,Male,Student,YouTube,Between 4 and 5 hours,3,Tablet,Android,1,Yes,
+1276,54,Other,Salaried Worker,Instagram,Between 3 and 4 hours,2,Smartphone,iOS,0,Yes,
+1277,54,Other,Salaried Worker,Instagram,Between 4 and 5 hours,4,Tablet,iOS,2,Yes,
+1278,54,Other,Salaried Worker,TikTok,Between 1 and 2 hours,7,Tablet,iOS,5,Yes,
+1279,54,Other,Salaried Worker,TikTok,Between 3 and 4 hours,5,Tablet,Android,3,Yes,
+1280,54,Other,Student,YouTube,Less than an Hour,2,Tablet,iOS,0,Yes,
+1281,55,Female,Salaried Worker,Facebook,Between 4 and 5 hours,4,Computer,Android,2,Yes,
+1282,55,Female,Salaried Worker,Facebook,Less than an Hour,9,Smartphone,Android,7,Yes,
+1283,55,Female,Salaried Worker,TikTok,Less than an Hour,9,Tablet,Android,7,Yes,
+1284,55,Female,Salaried Worker,YouTube,Between 1 and 2 hours,2,Tablet,iOS,0,Yes,
+1285,55,Female,Salaried Worker,YouTube,Between 3 and 4 hours,9,Smartphone,Android,7,Yes,
+1286,55,Female,Salaried Worker,YouTube,Between 4 and 5 hours,7,Computer,MacOS,5,Yes,
+1287,55,Female,Salaried Worker,YouTube,Less than an Hour,2,Smartphone,iOS,0,Yes,
+1288,55,Female,Student,TikTok,Between 1 and 2 hours,7,Tablet,Android,5,Yes,
+1289,55,Female,Student,TikTok,Between 4 and 5 hours,7,Smartphone,iOS,5,Yes,
+1290,55,Male,Salaried Worker,"Discord, Reddit",Between 1 and 2 hours,8,,,2,Yes,Married
+1291,55,Male,Salaried Worker,Facebook,Between 3 and 4 hours,5,Computer,Android,3,Yes,
+1292,55,Male,Salaried Worker,Instagram,Less than an Hour,2,Smartphone,iOS,0,Yes,
+1293,55,Male,Salaried Worker,YouTube,Between 3 and 4 hours,4,Smartphone,iOS,2,Yes,
+1294,55,Male,Student,Facebook,Between 3 and 4 hours,4,Smartphone,iOS,2,Yes,
+1295,55,Male,Student,TikTok,Between 2 and 3 hours,9,Smartphone,Android,7,Yes,
+1296,55,Other,Salaried Worker,TikTok,Between 3 and 4 hours,5,Smartphone,MacOS,3,Yes,
+1297,55,Other,Student,Instagram,Between 3 and 4 hours,4,Tablet,iOS,2,Yes,
+1298,56,Female,Retired,YouTube,Between 1 and 2 hours,6,,,2,Yes,Married
+1299,56,Female,Salaried Worker,Instagram,Between 1 and 2 hours,2,Smartphone,iOS,0,Yes,
+1300,56,Female,Salaried Worker,Instagram,Between 3 and 4 hours,4,Tablet,Windows,2,Yes,
+1301,56,Female,Salaried Worker,Instagram,Less than an Hour,7,Smartphone,iOS,5,Yes,
+1302,56,Female,Salaried Worker,TikTok,Between 3 and 4 hours,3,Smartphone,Android,1,Yes,
+1303,56,Female,Salaried Worker,TikTok,Less than an Hour,3,Smartphone,Android,1,Yes,
+1304,56,Female,Salaried Worker,YouTube,Between 2 and 3 hours,4,Tablet,MacOS,2,Yes,
+1305,56,Male,Salaried Worker,"Facebook, Twitter, YouTube, Pinterest",Between 2 and 3 hours,8,,,2,Yes,Married
+1306,56,Male,Salaried Worker,Instagram,Between 1 and 2 hours,7,Smartphone,Android,5,Yes,
+1307,56,Male,Salaried Worker,Instagram,Between 3 and 4 hours,2,Tablet,Android,0,Yes,
+1308,56,Male,Salaried Worker,Instagram,Between 4 and 5 hours,7,Smartphone,MacOS,5,Yes,
+1309,56,Male,Salaried Worker,Instagram,Less than an Hour,3,Smartphone,Android,1,Yes,
+1310,56,Male,Salaried Worker,TikTok,Between 1 and 2 hours,6,Tablet,Android,4,Yes,
+1311,56,Male,Salaried Worker,TikTok,Less than an Hour,2,Smartphone,Android,0,Yes,
+1312,56,Male,Salaried Worker,YouTube,Between 1 and 2 hours,5,Smartphone,Android,3,Yes,
+1313,56,Male,Salaried Worker,YouTube,Between 2 and 3 hours,5,Smartphone,Android,3,Yes,
+1314,56,Male,Student,Facebook,Between 1 and 2 hours,2,Smartphone,Windows,0,Yes,
+1315,56,Male,Student,TikTok,Between 1 and 2 hours,5,Smartphone,Android,3,Yes,
+1316,56,Male,Student,TikTok,Between 2 and 3 hours,2,Tablet,Android,0,Yes,
+1317,56,Male,Student,TikTok,Between 4 and 5 hours,2,Smartphone,Android,0,Yes,
+1318,56,Male,Student,TikTok,Less than an Hour,4,Smartphone,Android,2,Yes,
+1319,56,Other,Salaried Worker,Facebook,Between 3 and 4 hours,5,Smartphone,iOS,3,Yes,
+1320,56,Other,Salaried Worker,Instagram,Between 1 and 2 hours,2,Computer,Android,0,Yes,
+1321,56,Other,Salaried Worker,TikTok,Between 3 and 4 hours,4,Smartphone,iOS,2,Yes,
+1322,56,Other,Salaried Worker,TikTok,Less than an Hour,4,Tablet,Android,2,Yes,
+1323,56,Other,Salaried Worker,YouTube,Between 1 and 2 hours,1,Smartphone,iOS,0,Yes,
+1324,56,Other,Student,Instagram,Between 1 and 2 hours,4,Smartphone,Android,2,Yes,
+1325,57,Female,Salaried Worker,Facebook,Between 4 and 5 hours,2,Smartphone,Android,0,Yes,
+1326,57,Female,Salaried Worker,Instagram,Between 1 and 2 hours,5,Tablet,iOS,3,Yes,
+1327,57,Female,Salaried Worker,TikTok,Between 2 and 3 hours,7,Smartphone,Android,5,Yes,
+1328,57,Female,Salaried Worker,YouTube,Between 3 and 4 hours,5,Smartphone,iOS,3,Yes,
+1329,57,Female,Student,Instagram,Between 2 and 3 hours,5,Smartphone,iOS,3,Yes,
+1330,57,Female,Student,YouTube,Between 3 and 4 hours,3,Smartphone,Android,1,Yes,
+1331,57,Male,Salaried Worker,Facebook,Between 3 and 4 hours,3,Smartphone,Android,1,Yes,
+1332,57,Male,Salaried Worker,Facebook,Less than an Hour,4,Tablet,Android,2,Yes,
+1333,57,Male,Salaried Worker,Instagram,Between 4 and 5 hours,7,Tablet,Windows,5,Yes,
+1334,57,Male,Salaried Worker,TikTok,Between 1 and 2 hours,2,Tablet,MacOS,0,Yes,
+1335,57,Male,Salaried Worker,YouTube,Between 2 and 3 hours,7,Smartphone,iOS,5,Yes,
+1336,57,Male,Salaried Worker,YouTube,Between 3 and 4 hours,7,Tablet,Windows,5,Yes,
+1337,57,Male,Salaried Worker,YouTube,Between 4 and 5 hours,7,Tablet,iOS,5,Yes,
+1338,57,Male,Student,YouTube,Less than an Hour,5,Computer,Android,3,Yes,
+1339,57,Other,Salaried Worker,Instagram,Less than an Hour,1,Smartphone,MacOS,0,Yes,
+1340,57,Other,Salaried Worker,Instagram,Less than an Hour,2,Smartphone,Android,0,Yes,
+1341,57,Other,Student,YouTube,Between 1 and 2 hours,9,Smartphone,Android,7,Yes,
+1342,58,Female,Salaried Worker,Facebook,Between 3 and 4 hours,2,Smartphone,iOS,0,Yes,
+1343,58,Female,Salaried Worker,Facebook,Less than an Hour,7,Smartphone,Android,5,Yes,
+1344,58,Female,Salaried Worker,Instagram,Between 1 and 2 hours,4,Tablet,Android,2,Yes,
+1345,58,Female,Salaried Worker,Instagram,Between 2 and 3 hours,4,Smartphone,Android,2,Yes,
+1346,58,Female,Salaried Worker,YouTube,Between 4 and 5 hours,2,Smartphone,iOS,0,Yes,
+1347,58,Male,Salaried Worker,Instagram,Between 4 and 5 hours,4,Smartphone,iOS,2,Yes,
+1348,58,Male,Salaried Worker,TikTok,Between 1 and 2 hours,3,Smartphone,iOS,1,Yes,
+1349,58,Male,Salaried Worker,TikTok,Between 4 and 5 hours,2,Computer,iOS,0,Yes,
+1350,58,Male,Salaried Worker,YouTube,Between 3 and 4 hours,2,Computer,Android,0,Yes,
+1351,58,Male,Salaried Worker,YouTube,Between 4 and 5 hours,6,Tablet,Android,4,Yes,
+1352,58,Male,Student,YouTube,Between 2 and 3 hours,2,Computer,Windows,0,Yes,
+1353,58,Male,Student,YouTube,Less than an Hour,9,Smartphone,Android,7,Yes,
+1354,58,Other,Salaried Worker,Facebook,Between 3 and 4 hours,5,Smartphone,Android,3,Yes,
+1355,58,Other,Salaried Worker,Facebook,Between 4 and 5 hours,7,Computer,MacOS,5,Yes,
+1356,58,Other,Salaried Worker,TikTok,Between 3 and 4 hours,3,Smartphone,iOS,1,Yes,
+1357,58,Other,Salaried Worker,YouTube,Between 1 and 2 hours,5,Tablet,Android,3,Yes,
+1358,58,Other,Salaried Worker,YouTube,Between 3 and 4 hours,5,Smartphone,iOS,3,Yes,
+1359,58,Other,Student,Instagram,Less than an Hour,5,Tablet,Android,3,Yes,
+1360,59,Female,Salaried Worker,TikTok,Between 1 and 2 hours,5,Tablet,MacOS,3,Yes,
+1361,59,Female,Salaried Worker,TikTok,Less than an Hour,7,Smartphone,Android,5,Yes,
+1362,59,Female,Salaried Worker,TikTok,Less than an Hour,7,Smartphone,MacOS,5,Yes,
+1363,59,Female,Student,Facebook,Between 2 and 3 hours,7,Tablet,Android,5,Yes,
+1364,59,Male,Salaried Worker,Facebook,Between 1 and 2 hours,5,Smartphone,Android,3,Yes,
+1365,59,Male,Salaried Worker,Facebook,Between 3 and 4 hours,7,Smartphone,Windows,5,Yes,
+1366,59,Male,Salaried Worker,Facebook,Between 4 and 5 hours,2,Smartphone,Android,0,Yes,
+1367,59,Male,Salaried Worker,Instagram,Between 1 and 2 hours,9,Smartphone,iOS,7,Yes,
+1368,59,Male,Salaried Worker,Instagram,Between 3 and 4 hours,2,Smartphone,iOS,0,Yes,
+1369,59,Male,Salaried Worker,TikTok,Between 2 and 3 hours,7,Tablet,Android,5,Yes,
+1370,59,Male,Salaried Worker,YouTube,Between 2 and 3 hours,4,Smartphone,Android,2,Yes,
+1371,59,Male,Salaried Worker,YouTube,Between 3 and 4 hours,5,Smartphone,Android,3,Yes,
+1372,59,Male,Student,TikTok,Between 4 and 5 hours,7,Tablet,Windows,5,Yes,
+1373,59,Male,Student,YouTube,Between 1 and 2 hours,7,Smartphone,Windows,5,Yes,
+1374,59,Male,Student,YouTube,Between 2 and 3 hours,4,Tablet,Android,2,Yes,
+1375,59,Other,Salaried Worker,Instagram,Between 3 and 4 hours,4,Computer,iOS,2,Yes,
+1376,59,Other,Salaried Worker,YouTube,Between 3 and 4 hours,4,Smartphone,iOS,2,Yes,
+1377,60,Female,Salaried Worker,Facebook,Between 1 and 2 hours,7,Smartphone,MacOS,5,Yes,
+1378,60,Female,Salaried Worker,Instagram,Between 3 and 4 hours,7,Smartphone,Windows,5,Yes,
+1379,60,Female,Student,Instagram,Between 4 and 5 hours,7,Smartphone,MacOS,5,Yes,
+1380,60,Male,Retired,"Facebook, YouTube",Between 2 and 3 hours,8,,,2,Yes,Single
+1381,60,Male,Salaried Worker,Facebook,Between 1 and 2 hours,7,Computer,Android,5,Yes,
+1382,60,Male,Salaried Worker,Instagram,Less than an Hour,7,Smartphone,iOS,5,Yes,
+1383,60,Male,Salaried Worker,YouTube,Between 1 and 2 hours,7,Smartphone,Android,5,Yes,
+1384,60,Male,Student,Facebook,Between 3 and 4 hours,2,Computer,iOS,0,Yes,
+1385,60,Other,Salaried Worker,TikTok,Between 1 and 2 hours,6,Smartphone,Android,4,Yes,
+1386,60,Other,Salaried Worker,TikTok,Between 1 and 2 hours,7,Smartphone,Android,5,Yes,
+1387,60,Other,Salaried Worker,TikTok,Between 3 and 4 hours,8,Smartphone,MacOS,6,Yes,
+1388,60,Other,Salaried Worker,YouTube,Between 4 and 5 hours,4,Tablet,MacOS,2,Yes,
+1389,60,Other,Student,Facebook,Between 3 and 4 hours,1,Tablet,iOS,0,Yes,
+1390,61,Female,Salaried Worker,Facebook,Between 4 and 5 hours,4,Tablet,iOS,2,Yes,
+1391,61,Female,Salaried Worker,TikTok,Between 1 and 2 hours,8,Smartphone,Android,6,Yes,
+1392,61,Female,Salaried Worker,TikTok,Between 4 and 5 hours,4,Smartphone,iOS,2,Yes,
+1393,61,Female,Salaried Worker,YouTube,Less than an Hour,5,Smartphone,Android,3,Yes,
+1394,61,Female,Student,YouTube,Between 2 and 3 hours,7,Smartphone,Windows,5,Yes,
+1395,61,Female,Student,YouTube,Between 4 and 5 hours,4,Computer,Android,2,Yes,
+1396,61,Male,Salaried Worker,Instagram,Between 4 and 5 hours,2,Smartphone,MacOS,0,Yes,
+1397,61,Male,Salaried Worker,Instagram,Between 4 and 5 hours,2,Smartphone,Android,0,Yes,
+1398,61,Male,Salaried Worker,TikTok,Between 1 and 2 hours,5,Smartphone,Android,3,Yes,
+1399,61,Male,Salaried Worker,TikTok,Between 3 and 4 hours,4,Smartphone,iOS,2,Yes,
+1400,61,Male,Salaried Worker,TikTok,Less than an Hour,5,Computer,Android,3,Yes,
+1401,61,Male,Salaried Worker,YouTube,Between 1 and 2 hours,7,Tablet,iOS,5,Yes,
+1402,61,Male,Salaried Worker,YouTube,Less than an Hour,5,Smartphone,iOS,3,Yes,
+1403,61,Male,Student,TikTok,Between 3 and 4 hours,9,Smartphone,Android,7,Yes,
+1404,61,Male,Student,YouTube,Between 2 and 3 hours,2,Smartphone,iOS,0,Yes,
+1405,61,Male,Student,YouTube,Between 2 and 3 hours,7,Tablet,Android,5,Yes,
+1406,61,Male,Student,YouTube,Between 2 and 3 hours,7,Smartphone,MacOS,5,Yes,
+1407,61,Other,Salaried Worker,Instagram,Between 1 and 2 hours,7,Smartphone,iOS,5,Yes,
+1408,61,Other,Salaried Worker,YouTube,Between 2 and 3 hours,7,Computer,MacOS,5,Yes,
+1409,61,Other,Salaried Worker,YouTube,Less than an Hour,4,Smartphone,Windows,2,Yes,
+1410,61,Other,Student,Facebook,Between 2 and 3 hours,2,Smartphone,Android,0,Yes,
+1411,61,Other,Student,TikTok,Between 2 and 3 hours,9,Tablet,iOS,7,Yes,
+1412,61,Other,Student,TikTok,Between 3 and 4 hours,7,Smartphone,Android,5,Yes,
+1413,62,Female,Salaried Worker,Facebook,Between 4 and 5 hours,5,Tablet,iOS,3,Yes,
+1414,62,Female,Salaried Worker,Facebook,Between 4 and 5 hours,7,Smartphone,Android,5,Yes,
+1415,62,Female,Salaried Worker,TikTok,Between 1 and 2 hours,5,Smartphone,Windows,3,Yes,
+1416,62,Female,Salaried Worker,TikTok,Between 2 and 3 hours,2,Smartphone,Android,0,Yes,
+1417,62,Female,Salaried Worker,TikTok,Between 3 and 4 hours,9,Smartphone,Windows,7,Yes,
+1418,62,Female,Salaried Worker,TikTok,Between 4 and 5 hours,2,Computer,iOS,0,Yes,
+1419,62,Female,Salaried Worker,YouTube,Between 4 and 5 hours,9,Tablet,iOS,7,Yes,
+1420,62,Female,Student,Facebook,Less than an Hour,7,Smartphone,MacOS,5,Yes,
+1421,62,Female,Student,TikTok,Between 1 and 2 hours,1,Smartphone,MacOS,0,Yes,
+1422,62,Female,Student,YouTube,Between 2 and 3 hours,7,Smartphone,Android,5,Yes,
+1423,62,Male,Salaried Worker,Facebook,Between 1 and 2 hours,6,Computer,iOS,4,Yes,
+1424,62,Male,Salaried Worker,Facebook,Between 4 and 5 hours,5,Smartphone,iOS,3,Yes,
+1425,62,Male,Salaried Worker,Instagram,Between 1 and 2 hours,8,Tablet,Android,6,Yes,
+1426,62,Male,Salaried Worker,Instagram,Between 3 and 4 hours,1,Smartphone,Windows,0,Yes,
+1427,62,Male,Salaried Worker,Instagram,Between 3 and 4 hours,4,Computer,Windows,2,Yes,
+1428,62,Male,Salaried Worker,TikTok,Between 4 and 5 hours,9,Tablet,Android,7,Yes,
+1429,62,Male,Salaried Worker,YouTube,Between 2 and 3 hours,8,Tablet,Android,6,Yes,
+1430,62,Male,Student,Facebook,Between 3 and 4 hours,7,Smartphone,Android,5,Yes,
+1431,62,Male,Student,Instagram,Between 4 and 5 hours,2,Smartphone,Android,0,Yes,
+1432,62,Male,Student,Instagram,Less than an Hour,4,Smartphone,iOS,2,Yes,
+1433,62,Male,Student,TikTok,Between 2 and 3 hours,9,Smartphone,iOS,7,Yes,
+1434,62,Male,Student,TikTok,Between 3 and 4 hours,4,Smartphone,MacOS,2,Yes,
+1435,62,Male,Student,YouTube,Between 2 and 3 hours,7,Smartphone,Android,5,Yes,
+1436,62,Male,Student,YouTube,Less than an Hour,3,Tablet,Android,1,Yes,
+1437,62,Other,Salaried Worker,TikTok,Between 3 and 4 hours,2,Smartphone,Android,0,Yes,
+1438,63,Female,Salaried Worker,Facebook,Less than an Hour,7,Computer,Android,5,Yes,
+1439,63,Female,Salaried Worker,Instagram,Between 1 and 2 hours,4,Computer,MacOS,2,Yes,
+1440,63,Female,Salaried Worker,TikTok,Between 4 and 5 hours,7,Smartphone,Android,5,Yes,
+1441,63,Female,Salaried Worker,YouTube,Between 2 and 3 hours,9,Tablet,iOS,7,Yes,
+1442,63,Female,Salaried Worker,YouTube,Between 4 and 5 hours,4,Smartphone,MacOS,2,Yes,
+1443,63,Female,Salaried Worker,YouTube,Less than an Hour,5,Smartphone,Android,3,Yes,
+1444,63,Male,Salaried Worker,Facebook,Less than an Hour,4,Smartphone,Android,2,Yes,
+1445,63,Male,Salaried Worker,Facebook,Less than an Hour,7,Tablet,iOS,5,Yes,
+1446,63,Male,Salaried Worker,Instagram,Between 2 and 3 hours,4,Tablet,Android,2,Yes,
+1447,63,Male,Salaried Worker,TikTok,Between 4 and 5 hours,4,Computer,Android,2,Yes,
+1448,63,Male,Salaried Worker,TikTok,Less than an Hour,4,Smartphone,Android,2,Yes,
+1449,63,Male,Student,Instagram,Between 4 and 5 hours,3,Smartphone,Windows,1,Yes,
+1450,63,Male,Student,YouTube,Between 1 and 2 hours,2,Smartphone,iOS,0,Yes,
+1451,64,Female,Salaried Worker,Facebook,Between 2 and 3 hours,5,Tablet,iOS,3,Yes,
+1452,64,Female,Salaried Worker,Instagram,Between 2 and 3 hours,2,Smartphone,MacOS,0,Yes,
+1453,64,Female,Salaried Worker,TikTok,Between 2 and 3 hours,7,Tablet,Android,5,Yes,
+1454,64,Female,Salaried Worker,TikTok,Between 3 and 4 hours,2,Tablet,Windows,0,Yes,
+1455,64,Female,Salaried Worker,YouTube,Between 3 and 4 hours,2,Smartphone,Android,0,Yes,
+1456,64,Female,Salaried Worker,YouTube,Between 4 and 5 hours,7,Smartphone,Android,5,Yes,
+1457,64,Female,Salaried Worker,YouTube,Less than an Hour,2,Smartphone,Windows,0,Yes,
+1458,64,Female,Student,TikTok,Between 4 and 5 hours,1,Smartphone,MacOS,0,Yes,
+1459,64,Female,Student,TikTok,Between 4 and 5 hours,4,Tablet,iOS,2,Yes,
+1460,64,Female,Student,YouTube,Between 3 and 4 hours,1,Tablet,MacOS,0,Yes,
+1461,64,Male,Salaried Worker,Facebook,Between 2 and 3 hours,9,Tablet,Windows,7,Yes,
+1462,64,Male,Salaried Worker,Facebook,Between 4 and 5 hours,7,Smartphone,MacOS,5,Yes,
+1463,64,Male,Salaried Worker,Instagram,Between 2 and 3 hours,7,Tablet,iOS,5,Yes,
+1464,64,Male,Salaried Worker,Instagram,Between 2 and 3 hours,7,Smartphone,Android,5,Yes,
+1465,64,Male,Salaried Worker,Instagram,Less than an Hour,4,Smartphone,MacOS,2,Yes,
+1466,64,Male,Salaried Worker,TikTok,Less than an Hour,4,Smartphone,Android,2,Yes,
+1467,64,Male,Salaried Worker,TikTok,Less than an Hour,5,Smartphone,Windows,3,Yes,
+1468,64,Male,Salaried Worker,YouTube,Between 1 and 2 hours,8,Smartphone,iOS,6,Yes,
+1469,64,Male,Salaried Worker,YouTube,Between 2 and 3 hours,7,Smartphone,Android,5,Yes,
+1470,64,Male,Salaried Worker,YouTube,Between 3 and 4 hours,4,Smartphone,MacOS,2,Yes,
+1471,64,Male,Student,TikTok,Between 4 and 5 hours,4,Smartphone,Android,2,Yes,
+1472,64,Male,Student,TikTok,Less than an Hour,9,Tablet,Android,7,Yes,
+1473,64,Male,Student,YouTube,Between 3 and 4 hours,7,Tablet,MacOS,5,Yes,
+1474,64,Male,Student,YouTube,Less than an Hour,6,Tablet,Windows,4,Yes,
+1475,64,Other,Salaried Worker,TikTok,Between 1 and 2 hours,4,Tablet,iOS,2,Yes,
+1476,64,Other,Student,Facebook,Between 3 and 4 hours,2,Smartphone,iOS,0,Yes,
+1477,64,Other,Student,Instagram,Between 2 and 3 hours,9,Smartphone,Android,7,Yes,
+1478,65,Male,Retired,"Facebook, YouTube",Between 3 and 4 hours,8,,,4,Yes,Married
+1479,69,Trans,Salaried Worker,TikTok,More than 5 hours,0,,,10,Yes,Divorced
+1480,91,Female,Student,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 2 and 3 hours,0,,,8,Yes,Single
